@@ -491,7 +491,7 @@ select:focus {
 	cursor: pointer;
 	display: inline-block;
 	margin: 0 .125em;
-	padding: .75em 1.875em;
+	padding: .75em 1em;
 	position: relative;
 	color: #ffffff;
 	text-transform: uppercase;
@@ -801,8 +801,7 @@ select:focus {
 	}
 	.block-tabs li {
 		margin: 0 auto 1em auto;
-		display: block;
-		width: 50%;
+		width: 130px;
 	}
 	.block-tabs li:last-child {
 		margin-bottom: 0;
@@ -868,8 +867,7 @@ select:focus {
 	}
 	.block-tabs li {
 		margin: 0 auto 1em auto;
-		display: block;
-		width: 50%;
+		width: 100px;
 	}
 	.block-tabs li:last-child {
 		margin-bottom: 0;
