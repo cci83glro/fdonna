@@ -14,7 +14,13 @@
 
 
     // Scroll to
-
+    $(window).on('scroll', function () {
+		if ($(this).scrollTop() > 200) {
+			$('.scroll-top').fadeIn(200);
+		} else {
+			$('.scroll-top').fadeOut(200);
+		}
+	});
     $('a.scroll').smoothScroll({
         speed: 800,
         offset: -52

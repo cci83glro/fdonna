@@ -417,7 +417,7 @@ section.services .container:last-child .row:last-child {
 	position: relative;
 }
 .block-input label {
-	margin-bottom: .9357em;
+	margin-bottom: .25em;
 	text-transform: capitalize;
 }
 form,
@@ -622,7 +622,8 @@ select:focus {
 	margin-left: .0825em;
 	text-align: center;
 }
-.block-social a {
+.block-social a,
+a.scroll-top {
 	border: 2px solid #c98a6a;
 	color: #c98a6a;
 	display: inline-block;
@@ -634,6 +635,18 @@ select:focus {
 	-ms-border-radius: : 50%;
 	-o-border-radius: : 50%;
 	line-height: 2.4em;
+}
+
+a.scroll-top {
+	position: fixed;
+	right: 1%;
+	bottom: 1%;
+	text-align: center;
+	z-index: 1000;
+	display: none;
+}
+.google-maps {
+	height: 450px;
 }
 /* End contact section*/
 

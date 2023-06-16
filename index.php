@@ -65,14 +65,14 @@
                         </a>
                      </div>
                      <ul>
-                        <li><a class="scroll" href="#about">Om os</a></li>
+                        <li><a class="scroll" href="#about">Om mig</a></li>
                         <li><a class="scroll" href="#services">Services</a></li>
                         <!-- <li><a class="scroll" href="#barbers">Barbers</a></li> -->
                         <li><a class="scroll" href="#pricing">Priser</a></li>
                         <li><a class="scroll" href="#appointment">Book en tid</a></li>
-                        <li><a class="scroll" href="#locations">Find os</a></li>
+                        <li><a class="scroll" href="#contact-form">Skriv til mig</a></li>
                         <!-- <li><a class="scroll" href="#news">News</a></li> -->
-                        <li><a class="scroll" href="#contact">Kontakt</a></li>
+                        <li><a class="scroll" href="#contact">Kontaktoplysninger</a></li>
                      </ul>
                   </nav>
                </div>
@@ -86,7 +86,7 @@
                   <div class="row">
                      <div class="col-sm-12 text-center">
                         <h1 class="large text-white secondary-font mb-1">Velkommen  til<br/>Frisør  Donna</h1>
-                        <h6 class="mb-0 text-white uppercase">Vi leverer fantastiske kundeoplevelser</h6>
+                        <h6 class="mb-0 text-white uppercase">Jeg leverer fantastiske kundeoplevelser</h6>
                      </div>
                   </div>
                   <!--End row-->
@@ -103,8 +103,8 @@
                <!--Row-->
                <div class="row">
                   <div class="col-sm-12 gap-one-bottom">
-                     <h2 class="mb-0 text-brown">Om os</h2>
-                     <p class="text-beige mb-0">Our story start here</p>
+                     <h2 class="mb-0 text-brown">Om mig</h2>
+                     <p class="text-beige mb-0">Frisør med 15+ års erfaring</p>
                   </div>
                </div>
                <!--End row-->
@@ -128,14 +128,15 @@
                <!--Row-->
                <div class="row">
                   <div class="col-sm-6 col-sm-offset-3 ">
-                     <div class="block-content">
-                        <h3 class="uppercase mb-0">Welcome to barber hair salon and barbershop
-                           grooming life style and self confidnce
+                     <div class="block-content mb-0">
+                        <h3 class="uppercase mb-0">Jeg hedder Donna og jeg driver en lille, hyggelig og professionel frisør salon i mit hjem i Glostrup
                            <span class="dots"></span>
                         </h3>
-                        <h4 class="uppercase">territory of premium quality since 1990</h4>
-                        <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem<br> Ipsum has been the industry's standard dummy text ever since the 1500s, when an<br> unknown printer took a galley of type and scrambled it to make a type specimen<br> book galley of type and scrambled .</p>
-                        <img class="sing mb-0" src="img/signature.png" alt="">
+                        <h4 class="uppercase mb-1">Kunderne får altid en god oplevelse</h4>
+                        <p class="mb-05">Uanset om du leder efter en herrefrisør eller damefrisør, så får du hos Frisør Donna en frisør med mere end 15 års erfaring. Jeg tilbyder alle former for behandling inden for farve, hårklip, permanent og meget mere.</p>
+                        <p class="mb-05">For mig er det yderst vigtigt, at kunderne føler sig godt tilpas og gerne vil komme tilbage næste gang, når de har brug en frisør. Derfor bruger jeg altid meget tid på at snakke med dem om deres ønsker og forventninger.</p>
+                        <p class="mb-1">Samtidig elsker jeg at bruge min erfaring og kommer gerne med gode forslag til, hvad der ville virke bedst for hver kundes hår, og jeg sørger samtidig for, at de får en personlig oplevelse og føler sig tryg.</p>
+                        <p class="signature secondary-font mb-0">Frisør Donna</p>
                      </div>
                   </div>
                </div>
@@ -370,7 +371,7 @@
          <!--End pricing section-->
 
          <!--Divider-->
-         <section class="divider overlay">
+         <section id="appointment" class="divider overlay">
             <div class="background-img zoom" >
                <img src="img/booking-section-background.webp" alt="">
             </div>
@@ -395,15 +396,15 @@
          
          
          <!--Appointment section-->
-         <section id="appointment" class="appointment dotted main bg-beige">
+         <section id="contact-form" class="appointment dotted main bg-beige">
             <!--Container-->
             <div class="container">
                <!--Row-->
                <div class="row">
                   <div class="col-sm-12 text-center gap-one-bottom">
-                     <h2 class="text-brown mb-0">Kontakt</h2>
+                     <h2 class="text-brown mb-0">Skriv til mig</h2>
                      <!-- <p class="text-beige">Book your service</p> -->
-                     <p class="lead mb-0">Sign up to our newsletters and get the most of our community advices <br> about hair and beard styles to improve your life style</p>
+                     <p class="lead mb-0">Du må meget gerne sende en besked ved at bruge kontaktformularen nedenunder</p>
                   </div>
                </div>
                <!--End row-->
@@ -459,111 +460,6 @@
          </section>
          <!--End appointment section-->
          
-         <!--Divider-->
-         <section class="divider overlay">
-            <div class="background-img zoom" >
-               <img src="img/15.jpg" alt="">
-            </div>
-            <!--Container-->
-            <div class="container">
-               <!--Row-->
-               <div class="row">
-                  <div class="col-sm-12 text-center front-p">
-                     <h1 class=" large text-white  secondary-font">visit our online shop</h1>
-                     <a href="#appointment" class="but scroll">shop the gifts</a>
-                  </div>
-               </div>
-               <!--End row-->
-            </div>
-            <!--End container-->
-         </section>
-         <!--End divider section-->
-         <!--News section-->
-         <section id="news" class="news  main text-center">
-            <!--Container-->
-            <div class="container">
-               <!--Row-->
-               <div class="row">
-                  <div class="col-sm-12 text-center gap-one-bottom">
-                     <h2 class="text-brown mb-0">Latest news</h2>
-                     <p class="text-beige mb-0">Barbers talk</p>
-                  </div>
-               </div>
-               <!--End row-->
-            </div>
-            <!--End container-->
-            <!--Container-->
-            <div class="container">
-               <!--Row-->
-               <div class="row block-enhanced">
-                  <div class="col-sm-4  enhanced">
-                     <div class=" block-content dotted bg-beige">
-                        <div class=" block-boxe">
-                           <span class="meta-date">June 27, 2016</span>
-                           <h3 class=" uppercase text-brown mb-0"> Hair Measurements<br>
-                              For Mens
-                           </h3>
-                           <a class="link text-beige" href="#">
-                           Read more
-                           </a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-4  enhanced">
-                     <div class=" block-content dotted bg-beige">
-                        <div class=" block-boxe">
-                           <span class="meta-date">June 27, 2016</span>
-                           <h3 class=" uppercase text-brown mb-0"> Messy Pompadour 
-                              <br>
-                              Mens Hair
-                           </h3>
-                           <a class="link text-beige" href="#">
-                           Read more
-                           </a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-4  enhanced">
-                     <div class=" block-content dotted bg-beige">
-                        <div class=" block-boxe">
-                           <span class="meta-date">June 27, 2016</span>
-                           <h3 class=" uppercase text-brown mb-0"> 5 Awesome Style Hacks 
-                              <br>
-                              That Save Time
-                           </h3>
-                           <a class="link text-beige" href="#">
-                           Read more
-                           </a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <!--End row-->
-            </div>
-            <!--End container-->
-            <div class="col-sm-12 gap-one-top">
-               <a href="#" class="but">View all blog posts</a>
-            </div>
-         </section>
-         <!--End news section-->
-         <!--Feed section-->
-         <section class="feed bg-grey text-center">
-            <!--Container-->
-            <div class="container">
-               <!--Row-->
-               <div class="row">
-                  <div class="col-sm-12">
-                     <div class="block-boxe">
-                        <h4 class="uppercase mb-0">instagram</h4>
-                     </div>
-                  </div>
-               </div>
-               <!--End row-->
-            </div>
-            <!--End container-->
-            <ul class="insta-Feed" id="instafeed"></ul>
-         </section>
-         <!--End feed section-->
          <!--Contact section-->
          <section id="contact" class="contact main text-center">
             <!--Container-->
@@ -572,22 +468,20 @@
                <div class="row">
                   <div class="col-lg-4  col-lg-offset-4 col-sm-6  col-sm-offset-3">
                      <div class="block-contact">
-                        <h3 class=" uppercase text-brown"> Contact info</h3>
-                        <p class="lead ">
-                           Need some additional information ?
-                           Feel free to Get in touch for more information.
+                        <h3 class=" uppercase text-brown">Kontaktoplysninger</h3>
+                        <p class="lead mb-1">
+                           Frisør Donna vil være din foretrukne herrefrisør eller damefrisør i Glostrup.<br/>Du er altid velkommen til at ringe og høre mere om en pris på din næste klipning eller stille andre spørgsmål.
                            <br><br>
-                           Phone: (513) 352-3209<br>
-                           Fax: (513) 352-4267<br>
-                           Email : <span><a href="mailto:someone@yoursite.com" class="link text-beige">barbershop@barber.com</a></span>
+                           Telefon: <a href="tel:53389801" class="link text-beige">5338 9801</a><br>
+                           Email : <span><a href="mailto:someone@yoursite.com" class="link text-beige">barbershop@barber.com</a></span><br>
+                           Adresse: <a target="_blank" href="https://goo.gl/maps/BrQSTUjHir4X6suK8" class="link text-beige">Pilehusene 52, 2600 Glostrup</a>
                            <br><br>
-                           Monday - Saturday : 10am - 7pm<br>
-                           Sunday : 10am - 5pm
+                           Mandag - Lørdag : 09:00 - 15:30<br>
+                           Søndag : Lukket<br>
                         </p>
                         <ul class="block-social">
                            <li><a href="#"><i class="icon-twitter"></i></a></li>
                            <li><a href="#"><i class="icon-instagram-1"></i></a></li>
-                           <li><a class="scroll" href="#hero"><i class="icon-up-open-1"></i></a></li>
                         </ul>
                      </div>
                   </div>
@@ -596,33 +490,32 @@
             </div>
             <!--End container-->
          </section>
+         <section class="google-maps">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.904777550748!2d12.37269007719501!3d55.67325599811487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465250b40f57642d%3A0xd07120592ac7399c!2sPilehusene%2052%2C%202600%20Glostrup!5e0!3m2!1sen!2sdk!4v1686942237666!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+         </section>
          <!--End contact section-->
-         <footer class="footer bg-beige dotted gap-double-sm">
+         <footer class="footer bg-beige gap-double-sm">
             <div class="container ">
                <!--Row-->
                <div class="row ">
-                  <div class="col-md-12   text-center">
-                     <p class="mb-0">© 2017 Mutation Media all rights reserved. <br>
-                        Product of <a href="#">mutationthemes</a>.
-                     </p>
-                     <p class="mb-0 licence "><span class="text-beige">Font generated by</span> <a class="text-beige" href="http://www.flaticon.com" target="_blank">flaticon.com</a></p>
-                     <p class="mb-0 licence"><span class="text-beige">Under</span> <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC</a>: <a data-file="collar" href="http://www.flaticon.com/authors/pixel-perfect" target="_blank">Pixel perfect</a></p>
+                  <div class="col-md-12 text-center">
+                     <p class="mb-0">©2023 Frisør Donna All rights reserved.</p>
                   </div>
                </div>
                <!--End row-->
             </div>
-         </footer>
+         </footer>  
+         
+         <a class="scroll-top" href="#hero"><i class="icon-up-open-1"></i></a>
       </div>
       <!-- End wrapper-->
-      <!--Javascript-->	
+
       <script src="js/jquery-1.12.4.min.js" type="text/javascript"></script>
       <script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
       <script src="js/smooth-scroll.js" type="text/javascript"></script>
       <script src="js/placeholders.min.js" type="text/javascript"></script>
       <script src="js/instafeed.min.js" type="text/javascript"></script>
-      <script src="js/script.js" type="text/javascript"></script>
-      <!-- Google analytics -->
-      <!-- End google analytics -->
+      <script src="js/script.js" type="text/javascript"></script>      
    </body>
 </html>
 
