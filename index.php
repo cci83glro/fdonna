@@ -499,7 +499,7 @@
                <!--Row-->
                <div class="row ">
                   <div class="col-md-12 text-center">
-                     <p class="mb-0">©2023 Frisør Donna All rights reserved.</p>
+                     <p class="mb-0">©<?php echo date("Y");?> Frisør Donna All rights reserved.</p>
                   </div>
                </div>
                <!--End row-->
