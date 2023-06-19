@@ -100,8 +100,8 @@
                <!--Row-->
                <div class="row">
                   <div class="col-sm-12 gap-one-bottom">
-                     <h2 class="mb-0 text-brown">Om mig</h2>
-                     <p class="text-beige mb-0">Frisør med 15+ års erfaring</p>
+                     <h2 class="mb-0 text-color-1">Om mig</h2>
+                     <p class="text-color-2 mb-0">Frisør med 15+ års erfaring</p>
                   </div>
                </div>
                <!--End row-->
@@ -154,8 +154,8 @@
                         <ul class="slides">
                            <li>
                               <div class="block-review">
-                                 <h4 class="uppercase mb-0 text-brown">Akill balimidis</h4>
-                                 <span class="text-beige">Client for 2 year</span>
+                                 <h4 class="uppercase mb-0 text-color-1">Akill balimidis</h4>
+                                 <span class="text-color-2">Client for 2 year</span>
                                  <blockquote>“ I showed him a photo and he took it to the next level and the look worked best on me “  </blockquote>
                                  <ul class="block-star mt-10">
                                     <li><i class="icon-star"></i></li>
@@ -168,8 +168,8 @@
                            </li>
                            <li>
                               <div class="block-review">
-                                 <h4 class="uppercase mb-0 text-brown">Enrico marcelo</h4>
-                                 <span class="text-beige">Client for 2 year</span>
+                                 <h4 class="uppercase mb-0 text-color-1">Enrico marcelo</h4>
+                                 <span class="text-color-2">Client for 2 year</span>
                                  <blockquote>“ If you want one a haircuts or shaves that will change your life, you need to head to Barber “ </blockquote>
                                  <ul class="block-star mt-10">
                                     <li><i class="icon-star"></i></li>
@@ -197,7 +197,7 @@
                <!--Row-->
                <div class="row">
                   <div class="col-sm-12 gap-one-bottom">
-                     <h2 class="mb-0 text-brown">Priser</h2>
+                     <h2 class="mb-0 text-color-1">Priser</h2>
                   </div>
                </div>
                <!--End row-->
@@ -247,35 +247,35 @@
                   <ul class="block-tab mt-40">
                      <li class="active block-list">
                         <div class="col-sm-6  col-sm-offset-3 ">
-                           <h1 class=" medium text-beige secondary-font">Herre</h1>
+                           <h1 class=" medium text-color-2 secondary-font">Herre</h1>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Herreklip</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Herreklip</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">230,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Maskinklip</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Maskinklip</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">150,-</span>
                               <p>All around</p>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Skægtrimning</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Skægtrimning</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">fra 140,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Retning af kanter</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Retning af kanter</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">140,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Herre farve / Reflekser</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Herre farve / Reflekser</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">fra 350,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Herreklip &amp; skægtrimning</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Herreklip &amp; skægtrimning</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">350,-</span>
                            </div>
@@ -283,44 +283,44 @@
                      </li>
                      <li class=" block-list">
                         <div class="col-sm-6  col-sm-offset-3 ">
-                           <h1 class=" medium text-beige secondary-font">Kvinder</h1>
+                           <h1 class=" medium text-color-2 secondary-font">Kvinder</h1>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Dameklip</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Dameklip</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">320,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Permanent</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Permanent</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">fra 550,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Farve</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Farve</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">fra 450,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Striber</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Striber</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">fra 600,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Vipper</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Vipper</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">100,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Bryn</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Bryn</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">100,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Vask &amp; føn</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Vask &amp; føn</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">fra 220,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Kur inkl. føn</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Kur inkl. føn</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">300,-</span>
                            </div>
@@ -328,15 +328,15 @@
                      </li>
                      <li class=" block-list">
                         <div class="col-sm-6  col-sm-offset-3 ">
-                           <h1 class=" medium text-beige secondary-font">Pensionist</h1>
+                           <h1 class=" medium text-color-2 secondary-font">Pensionist</h1>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Dame pensionist klip</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Dame pensionist klip</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">270,-</span>
                               <p>Pensionistrabat er kun gældende hverdage fra kl. 9-12</p>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Herre pensionist klip</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Herre pensionist klip</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">200,-</span>
                               <p>Pensionistrabat er kun gældende hverdage fra kl. 9-12</p>
@@ -345,9 +345,9 @@
                      </li>
                      <li class=" block-list">
                         <div class="col-sm-6  col-sm-offset-3 ">
-                           <h1 class=" medium text-beige secondary-font">Børn</h1>
+                           <h1 class=" medium text-color-2 secondary-font">Børn</h1>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-brown">Børneklip (0-12 år)</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Børneklip (0-12 år)</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">170,-</span>
                            </div>
@@ -361,8 +361,8 @@
             <!--End container-->
 
             <div class="container">
-               <p class="text-beige mb-05">Som en lille ekstra forkælelse byder vi alle vores kunder gratis kaffe og the til deres klipninger.</p>
-               <p class="text-beige mb-0">VI TILBYDER 40,- STUDIERABAT PÅ KLIPNING VED FREMVISNING AF GYLDIGT STUDIEKORT.</p>
+               <p class="text-color-2 mb-05">Som en lille ekstra forkælelse byder vi alle vores kunder gratis kaffe og the til deres klipninger.</p>
+               <p class="text-color-2 mb-0">VI TILBYDER 40,- STUDIERABAT PÅ KLIPNING VED FREMVISNING AF GYLDIGT STUDIEKORT.</p>
             </div>
          </section>
          <!--End pricing section-->
@@ -382,7 +382,7 @@
                      <p class="text-white">Mandag - Lørdag : 09:00 - 15:30<br>
                         Søndag : Lukket<br>
                      </p>
-                     <a href="#appointment" class="but scroll">Ny booking</a>
+                     <a id="appointment-btn" href="#appointment" class="but scroll">Ny booking</a>
                   </div>
                </div>
                <!--End row-->
@@ -399,8 +399,8 @@
                <!--Row-->
                <div class="row">
                   <div class="col-sm-12 text-center gap-one-bottom">
-                     <h2 class="text-brown mb-0">Skriv til mig</h2>
-                     <!-- <p class="text-beige">Book your service</p> -->
+                     <h2 class="text-color-1 mb-0">Skriv til mig</h2>
+                     <!-- <p class="text-color-2">Book your service</p> -->
                      <p class="lead mb-0">Du må meget gerne sende en besked ved at bruge kontaktformularen nedenunder</p>
                   </div>
                </div>
@@ -487,13 +487,13 @@
                <div class="row">
                   <div class="col-lg-4  col-lg-offset-4 col-sm-6  col-sm-offset-3">
                      <div class="block-contact">
-                        <h3 class=" uppercase text-brown">Kontaktoplysninger</h3>
+                        <h3 class=" uppercase text-color-1">Kontaktoplysninger</h3>
                         <p class="lead mb-1">
                            Frisør Donna vil være din foretrukne herrefrisør eller damefrisør i Glostrup.<br/>Du er altid velkommen til at ringe og høre mere om en pris på din næste klipning eller stille andre spørgsmål.
                            <br><br>
-                           Telefon: <a href="tel:53389801" class="link text-beige">5338 9801</a><br>
-                           Email : <span><a href="mailto:someone@yoursite.com" class="link text-beige">barbershop@barber.com</a></span><br>
-                           Adresse: <a target="_blank" href="https://goo.gl/maps/BrQSTUjHir4X6suK8" class="link text-beige">Pilehusene 52, 2600 Glostrup</a>
+                           Telefon: <a href="tel:53389801" class="link text-color-2">5338 9801</a><br>
+                           Email : <span><a href="mailto:someone@yoursite.com" class="link text-color-2">barbershop@barber.com</a></span><br>
+                           Adresse: <a target="_blank" href="https://goo.gl/maps/BrQSTUjHir4X6suK8" class="link text-color-2">Pilehusene 52, 2600 Glostrup</a>
                            <br><br>
                            Mandag - Lørdag : 09:00 - 15:30<br>
                            Søndag : Lukket<br>

@@ -9,6 +9,14 @@
 
 /* Reset & Basics (Inspired by E. Meyers) */
 
+:root {
+	--main-bg-color: #ffffff;
+	--main-bg-color-transparent: rgba(255, 255, 255, 0.98);
+	--content-color-1: #000000;
+	--content-color-2: #d1b235;
+	--content-color-2-transparent: rgba(209, 178, 53, 0.8);
+}
+
 *,
 *:before,
 *:after {
@@ -174,7 +182,7 @@ iframe {
 /*Basic Styles*/
 
 body {
-	background: #ffffff;
+	background: var(--main-bg-color);
 	font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 	color: #151514;
 	margin: 0;
@@ -264,8 +272,8 @@ blockquote {
 em {
 	font-style: italic;
 }
-p.text-beige,
-span.text-beige {
+p.text-color-2,
+span.text-color-2 {
 	text-transform: capitalize;
 }
 span {
@@ -281,6 +289,7 @@ p span {
 p.signature {
 	text-align: right;
 	font-size: 1.5em;
+	color: var(--content-color-2);
 }
 .lead {
 	font-size: 1em;
@@ -309,13 +318,13 @@ section,
 	text-transform: uppercase;
 }
 .text-white {
-	color: #ffffff;
+	color: #ffffff !important;
 }
-.text-brown {
-	color: #552d25;
+.text-color-1 {
+	color: var(--content-color-1);
 }
-.text-beige {
-	color: #c98a6a;
+.text-color-2 {
+	color: var(--content-color-2);
 }
 input[type]:-moz-placeholder {
 	color: rgba(85, 45, 35, .5);
@@ -432,15 +441,15 @@ input[type="text"],
 .but {
 	display: inline-block;
 	position: relative;
-	color: #c98a6a;
+	color: var(--content-color-1);
 	padding: 1em 2.4567em;
-	background: #552d25;
+	background: var(--content-color-2);
 	text-transform: uppercase;
 	border-radius: 6px;
 	-webkit-border-radius: 6px;
 	-moz-border-radius: 6px;
 	-ms-border-radius: 6px;
-	-o-border-radius: : 6px;
+	-o-border-radius: 6px;
 	font-size: .7em;
 	font-weight: 600;
 	-webkit-user-select: none;
