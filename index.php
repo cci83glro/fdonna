@@ -66,12 +66,9 @@
                      </div>
                      <ul>
                         <li><a class="scroll" href="#about">Om mig</a></li>
-                        <li><a class="scroll" href="#services">Services</a></li>
-                        <!-- <li><a class="scroll" href="#barbers">Barbers</a></li> -->
                         <li><a class="scroll" href="#pricing">Priser</a></li>
                         <li><a class="scroll" href="#appointment">Book en tid</a></li>
                         <li><a class="scroll" href="#contact-form">Skriv til mig</a></li>
-                        <!-- <li><a class="scroll" href="#news">News</a></li> -->
                         <li><a class="scroll" href="#contact">Kontaktoplysninger</a></li>
                      </ul>
                   </nav>
@@ -393,8 +390,8 @@
             <!--End container-->
          </section>
          <!--End divider section-->
-         
-         
+
+
          <!--Appointment section-->
          <section id="contact-form" class="appointment dotted main bg-beige">
             <!--Container-->
@@ -416,39 +413,61 @@
                <div class="row">
                   <div class="col-md-8 col-md-offset-2">
                      <div class="block-boxe border bg-white">
-                        <form method="post" class="appointment-form form" action="#">
+                        <form method="post" class="appointment-form form" action="mailer.php">
+                           <div class="col-sm-6 background">
+                              <div class="block-input ico-input">
+                                 <label><span>Title:</span></label>
+                                 <div class="input-inner">
+                                    <i class="icon-tag-1"></i>
+                                    <input value="" id="user-title" name="title" type="text" >
+                                 </div>
+                              </div>
+                           </div>
                            <div class="col-sm-6">
-                              <div class="block-input  ico-input">
+                              <div class="block-input ico-input">
                                  <label><span>Navn:</span></label>
                                  <div class="input-inner">
                                     <i class="icon-user-1"></i>
-                                    <input  value="" id="user-name" name="name" type="text" >
+                                    <input value="" id="user-name" name="name" type="text" >
                                  </div>
                               </div>
                            </div>
                            <div class="col-sm-6">
-                              <div class="block-input  ico-input">
+                              <div class="block-input ico-input">
                                  <label><span>Email:</span></label>
                                  <div class="input-inner">
                                     <i class="icon-mail-1"></i>
-                                    <input  value="" id="user-email" name="email" type="text">
+                                    <input value="" id="user-email" name="email" type="text">
                                  </div>
                               </div>
                            </div>
                            <div class="col-sm-6">
-                              <div class="block-input  ico-input">
+                              <div class="block-input ico-input">
                                  <label><span>Telefon:</span></label>
                                  <div class="input-inner">
                                     <i class="icon-phone"></i>
-                                    <input  value="" id="user-phone" name="phone" type="text">
+                                    <input value="" id="user-phone" name="phone" type="text">
                                  </div>
                               </div>
                            </div>
-                           
+                           <div class="col-sm-12">
+                              <div class="block-input ico-input">
+                                 <label><span>Besked:</span></label>
+                                 <div class="input-inner">
+                                    <i class="icon-doc-text-1"></i>
+                                    <textarea value="" id="user-message" name="message" rows="5"></textarea>
+                                 </div>
+                              </div>
+                           </div>
+
                            <div class="col-sm-12">
                               <div class="block-input">
-                                 <input value="Send besked" class="but  submit" type="submit">
+                                 <input id="contact-send-button" value="Send besked" class="but submit" >
                               </div>
+                           </div>
+
+                           <div class="col-sm-12">
+                              <p class="error">dfgdf</p>
                            </div>
                         </form>
                      </div>
@@ -459,7 +478,7 @@
             <!--End container-->
          </section>
          <!--End appointment section-->
-         
+
          <!--Contact section-->
          <section id="contact" class="contact main text-center">
             <!--Container-->
@@ -499,13 +518,13 @@
                <!--Row-->
                <div class="row ">
                   <div class="col-md-12 text-center">
-                     <p class="mb-0">©<?php echo date("Y");?> Frisør Donna All rights reserved.</p>
+                     <p class="mb-0">©<?php echo date("Y");?> Frisør Donna | CVR: 42228923 | All rights reserved</p>
                   </div>
                </div>
                <!--End row-->
             </div>
-         </footer>  
-         
+         </footer>
+
          <a class="scroll-top" href="#hero"><i class="icon-up-open-1"></i></a>
       </div>
       <!-- End wrapper-->
@@ -515,7 +534,7 @@
       <script src="js/smooth-scroll.js" type="text/javascript"></script>
       <script src="js/placeholders.min.js" type="text/javascript"></script>
       <script src="js/instafeed.min.js" type="text/javascript"></script>
-      <script src="js/script.js" type="text/javascript"></script>      
+      <script src="js/script.js" type="text/javascript"></script>
    </body>
 </html>
 

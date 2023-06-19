@@ -272,7 +272,7 @@ span {
 	font-size: .8125em;
 }
 p {
-	line-height: 1.85714286em;
+	line-height: 1.4em;
 	font-size: .8125em;
 }
 p span {
@@ -578,5 +578,9 @@ img {
 }
 .bg-beige {
 	background: rgba(252, 238, 227, .3);
+}
+
+.background {
+	display: none !important;
 }
 /*End misc */

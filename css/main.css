@@ -425,6 +425,7 @@ form,
 	position: relative;
 }
 input[type="text"],
+textarea,
 select {
 	background: #fcf9f7;
 	border: 1px solid rgba(85, 45, 35, .25);
@@ -438,9 +439,15 @@ select {
 	-webkit-border-radius: 6px;
 	-moz-border-radius: 6px;
 	-ms-border-radius: 6px;
-	-o-border-radius: : 6px;
+	-o-border-radius: 6px;
 	font-size: 13px;
 	color: #552d25;
+}
+textarea {
+	height: 150px;
+	resize: vertical;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 .input-inner.select:after {
 	content: '\ea7a';
@@ -482,6 +489,7 @@ select:focus {
 	border: none;
 	height: 40px;
 	line-height: 0;
+	text-align: center;
 }
 /*End reservation section*/
 
@@ -615,6 +623,11 @@ select:focus {
 /* End instagram*/
 
 /* Contact section*/
+
+.error {
+	color: red;
+	display: none;
+}
 
 .block-social li {
 	display: inline-block;
@@ -841,11 +854,11 @@ a.scroll-top {
 	}
 }
 @media only screen and (max-width: 479px) {
-	input,
+	/* input,
 	textarea {
 		-webkit-appearance: none;
 		-webkit-border-radius: 0;
-	}
+	} */
 	.main-slider .flex-control-nav {
 		display: block;
 	}
