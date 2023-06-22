@@ -54,7 +54,8 @@
             <header class="header default">
                <div class=" left-part">
                   <a class="logo scroll" href="#hero">
-                     <h2 class="mb-0">Frisør Donna</h2>
+                     <!-- <h2 class="mb-0">Frisør Donna</h2> -->
+                     <div class="logo-img"></div>
                   </a>
                </div>
                <div class="right-part">
@@ -132,7 +133,7 @@
                         <h4 class="uppercase mb-1">Kunderne får altid en god oplevelse</h4>
                         <p class="mb-05">Uanset om du leder efter en herrefrisør eller damefrisør, så får du hos Frisør Donna en frisør med mere end 15 års erfaring. Jeg tilbyder alle former for behandling inden for farve, hårklip, permanent og meget mere.</p>
                         <p class="mb-05">For mig er det yderst vigtigt, at kunderne føler sig godt tilpas og gerne vil komme tilbage næste gang, når de har brug en frisør. Derfor bruger jeg altid meget tid på at snakke med dem om deres ønsker og forventninger.</p>
-                        <p class="mb-1">Samtidig elsker jeg at bruge min erfaring og kommer gerne med gode forslag til, hvad der ville virke bedst for hver kundes hår, og jeg sørger samtidig for, at de får en personlig oplevelse og føler sig tryg.</p>
+                        <p class="mb-2">Samtidig elsker jeg at bruge min erfaring og kommer gerne med gode forslag til, hvad der ville virke bedst for hver kundes hår, og jeg sørger samtidig for, at de får en personlig oplevelse og føler sig tryg.</p>
                         <p class="signature secondary-font mb-0">Frisør Donna</p>
                      </div>
                   </div>

@@ -535,7 +535,7 @@ section.divider.medium {
 }
 section.main {
 	padding-top: 3em;
-	padding-bottom: 3em;
+	padding-bottom: 2em;
 }
 div[class*="col-"].gap-one-bottom,
 .gap-one-bottom {
@@ -575,6 +575,12 @@ img {
 }
 .mb-1 {
 	margin-bottom: 1em !important;
+}
+.mb-15 {
+	margin-bottom: 1.5em !important;
+}
+.mb-2 {
+	margin-bottom: 2em !important;
 }
 .m-0 {
 	margin: 0;
