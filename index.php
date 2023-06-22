@@ -287,7 +287,7 @@
                            <div class="block-content text-left">
                               <h3 class="service-title h3 uppercase text-color-1">Dameklip</h3>
                               <span class="dots-price"></span>
-                              <span class="service-price">320,-</span>
+                              <span class="service-price">350,-</span>
                            </div>
                            <div class="block-content text-left">
                               <h3 class="service-title h3 uppercase text-color-1">Permanent</h3>

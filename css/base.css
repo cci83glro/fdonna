@@ -272,7 +272,7 @@ blockquote {
 em {
 	font-style: italic;
 }
-p.text-color-2,
+/* p.text-color-2, */
 span.text-color-2 {
 	text-transform: capitalize;
 }
