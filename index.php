@@ -521,7 +521,7 @@
                   <div class="col-md-12 text-center">
                      <p class="mb-0">©<?php echo date("Y");?> Frisør Donna | CVR: 42228923 | All rights reserved</p>
                      <p class="mb-0">
-                        <a href="#">Cookies politik</a> | <a href="#">Persondata politik</a>
+                        <a href="#" class="open-modal" data-ref-id="cookies-policy">Cookies politik</a> | <a href="#" class="open-modal" data-ref-id="personaldata-policy">Persondata politik</a>
                      </p>
                   </div>
                </div>
@@ -532,6 +532,38 @@
          <a class="scroll-top" href="#hero"><i class="icon-up-open-1"></i></a>
       </div>
       <!-- End wrapper-->
+
+      <div id="cookies-policy" class="modal" tabindex="-1" role="dialog">
+         <div class="modal-dialog">
+            <div class="modal-content"> 
+               <div class="modal-header"> 
+                  <h1 class="modal-title">Cookies politik</h1>
+               </div> 
+               <div class="modal-body">
+                  <?php include_once "cookies-policy.php" ?>
+               </div> 
+               <div class="modal-footer">
+                  <button class="action-button close-modal">Luk</button>
+               </div>
+            </div>
+         </div>		
+      </div>
+
+      <div id="personaldata-policy" class="modal" tabindex="-1" role="dialog">
+         <div class="modal-dialog">
+            <div class="modal-content"> 
+               <div class="modal-header"> 
+                  <h1 class="modal-title">Persondata politik</h1>
+               </div> 
+               <div class="modal-body">
+                  <?php include_once "personaldata-policy.php" ?>
+               </div> 
+               <div class="modal-footer">
+                  <button class="action-button close-modal">Luk</button>
+               </div>
+            </div>
+         </div>		
+      </div>
 
       <script src="js/jquery-1.12.4.min.js" type="text/javascript"></script>
       <script src="js/jquery.flexslider-min.js" type="text/javascript"></script>

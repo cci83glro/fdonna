@@ -701,6 +701,58 @@ a.scroll-top {
 }
 /* End footer section*/
 
+/* Modal section */
+
+
+.modal {
+	z-index: 20000;
+	color: var(--content-color-1);
+	position: fixed;
+	width: 100%;
+	height: 95%;
+	background: #fff;
+	top: 5%;
+	bottom: 0;
+	-webkit-transition: opacity 500ms ease-in-out;
+	transition: opacity 500ms ease-in-out;
+	display: none;
+}
+.modal-dialog {
+	overflow-y: initial !important;
+	overflow-y: scroll;
+	max-height:85%;
+	/* margin-top: 50px;
+	margin-bottom:50px; */
+}
+.modal-content {
+	padding: 20px 10px;
+}
+.modal-content h1{
+	font-size: 2em;
+	margin-bottom: 20px;
+}
+.modal-content h2{
+	font-size: 1.5em;
+	line-height: 1.2em;
+	margin-bottom: 10px;
+	text-align: left;
+}
+.modal-content p{
+	font-size: .75em;
+	line-height: 1.5em;
+	margin-bottom: 10px;
+}
+.modal-footer {
+	padding: 10px;
+	text-align: right;
+}
+.modal-body {
+	height: 70vh;
+  	overflow-y: auto;
+}
+
+/* End modal section*/
+
 /*Media queries*/
 
 @media screen and (min-width: 600px) and (max-width: 800px) {

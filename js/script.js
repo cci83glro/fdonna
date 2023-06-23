@@ -10,6 +10,14 @@
         $(".loader-inner").fadeOut();
         $(".loader").delay(200).fadeOut("slow");
 
+        $('.open-modal').click(function (event) {
+            event.preventDefault();
+            $('#' + $(this).attr('data-ref-id')).show();
+        });
+        $('.close-modal').click(function () {
+            $(this).closest('.modal').hide();
+        });
+
     });
 
 
