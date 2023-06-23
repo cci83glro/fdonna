@@ -34,7 +34,7 @@
       <!--Wrapper-->
       <div class="wrapper">
          <!--Hero section-->
-         <section class="hero overlay">
+         <section id="hero" class="hero overlay">
             <!--Main slider-->
             <div class="main-slider  flexslider">
                <ul class="slides">

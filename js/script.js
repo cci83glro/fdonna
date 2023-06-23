@@ -21,7 +21,7 @@
 			$('.scroll-top').fadeOut(200);
 		}
 	});
-    $('a.scroll').smoothScroll({
+    $('a.scroll-top').smoothScroll({
         speed: 800,
         offset: -52
     });
