@@ -686,17 +686,18 @@ a.scroll-top {
 
 .footer {
 	position: relative;
-	color: #552d25;
+	color: var(--content-color-1);
 }
 .footer a {
-	color: #552d25;
-	text-decoration: underline;
+	color: var(--content-color-1);
+	text-decoration: none;
 }
 .footer.dotted:after {
 	content: none;
 }
 .footer p {
-	font-size: .6875em;
+	font-size: .8em;
+	line-height: 2em;
 }
 /* End footer section*/
 

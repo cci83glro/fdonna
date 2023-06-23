@@ -520,6 +520,9 @@
                <div class="row ">
                   <div class="col-md-12 text-center">
                      <p class="mb-0">©<?php echo date("Y");?> Frisør Donna | CVR: 42228923 | All rights reserved</p>
+                     <p class="mb-0">
+                        <a href="#">Cookies politik</a> | <a href="#">Persondata politik</a>
+                     </p>
                   </div>
                </div>
                <!--End row-->
