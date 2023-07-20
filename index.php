@@ -156,29 +156,55 @@
                         <ul class="slides">
                            <li>
                               <div class="block-review">
-                                 <h4 class="uppercase mb-0 text-color-1">Akill balimidis</h4>
-                                 <span class="text-color-2">Client for 2 year</span>
-                                 <blockquote>“ I showed him a photo and he took it to the next level and the look worked best on me “  </blockquote>
+                                 <h4 class="uppercase mb-0 text-color-2">Puk Mogensen</h4>
+                                 <!-- <span class="text-color-2">Client for 2 year</span> -->
+                                 <blockquote>“ Donna er den bedste frisør af alle, hun er så dygtig og leverer fantastiske resultater “  </blockquote>
                                  <ul class="block-star mt-10">
                                     <li><i class="icon-star"></i></li>
                                     <li><i class="icon-star"></i></li>
                                     <li><i class="icon-star"></i></li>
                                     <li><i class="icon-star"></i></li>
-                                    <li><i class="icon-star-empty"></i></li>
+                                    <li><i class="icon-star"></i></li>
+                                    <!-- <li><i class="icon-star-empty"></i></li> -->
                                  </ul>
                               </div>
                            </li>
                            <li>
                               <div class="block-review">
-                                 <h4 class="uppercase mb-0 text-color-1">Enrico marcelo</h4>
-                                 <span class="text-color-2">Client for 2 year</span>
-                                 <blockquote>“ If you want one a haircuts or shaves that will change your life, you need to head to Barber “ </blockquote>
+                                 <h4 class="uppercase mb-0 text-color-2">Racha Tahhan</h4>
+                                 <blockquote>“ Hun er fantastisk dygtig og meget sød. De varmeste anbefalinger herfra “ </blockquote>
                                  <ul class="block-star mt-10">
                                     <li><i class="icon-star"></i></li>
                                     <li><i class="icon-star"></i></li>
                                     <li><i class="icon-star"></i></li>
                                     <li><i class="icon-star"></i></li>
-                                    <li><i class="icon-star-half"></i></li>
+                                    <li><i class="icon-star"></i></li>
+                                 </ul>
+                              </div>
+                           </li>
+                           <li>
+                              <div class="block-review">
+                                 <h4 class="uppercase mb-0 text-color-2">Olga Koreshkova</h4>
+                                 <blockquote>“ Den bedste frisør i Danmark! Nu skal jeg gå kun til Donna. Jeg er meget tilfreds med både balayage og klipning “ </blockquote>
+                                 <ul class="block-star mt-10">
+                                    <li><i class="icon-star"></i></li>
+                                    <li><i class="icon-star"></i></li>
+                                    <li><i class="icon-star"></i></li>
+                                    <li><i class="icon-star"></i></li>
+                                    <li><i class="icon-star"></i></li>
+                                 </ul>
+                              </div>
+                           </li>
+                           <li>
+                              <div class="block-review">
+                                 <h4 class="uppercase mb-0 text-color-2">Susan He</h4>
+                                 <blockquote>“ Mine varmeste anbefalinger til Frisør Donna! Jeg er simpelthen så glad for min nye frisure - den blev endnu flottere end det, jeg havde tænkt. Hos Donna er man i trygge hænder! “ </blockquote>
+                                 <ul class="block-star mt-10">
+                                    <li><i class="icon-star"></i></li>
+                                    <li><i class="icon-star"></i></li>
+                                    <li><i class="icon-star"></i></li>
+                                    <li><i class="icon-star"></i></li>
+                                    <li><i class="icon-star"></i></li>
                                  </ul>
                               </div>
                            </li>
