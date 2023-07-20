@@ -20,6 +20,11 @@
 	transform: translatex(50%);
 }
 
+#cookiePopup  a {
+  color: var(--content-color-2);
+  font-weight: 700;
+}
+
 #cookiePopup  * {
   padding: 0;
   margin: 0;
