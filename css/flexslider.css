@@ -50,7 +50,7 @@ html[xmlns] .slides {display: block;}
 
 
 /* Direction Nav */
-.flex-direction-nav {*height: 0;}
+.flex-direction-nav {height: 0;}
 .flex-direction-nav a {
 	
 

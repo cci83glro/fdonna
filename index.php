@@ -9,16 +9,7 @@
       <meta name="description" content="">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <!-- Css -->
-      <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
-      <link href="css/base.css" rel="stylesheet" type="text/css" media="all"/>
-      <link href="css/main.css" rel="stylesheet" type="text/css" media="all"/>
-      <link href="css/cookies-popup.css" rel="stylesheet" type="text/css" media="all"/>
-      <link href="css/flexslider.css" rel="stylesheet" type="text/css"  media="all" />
-      <link href="css/venobox.css" rel="stylesheet" type="text/css"  media="all" />
-      <link href="css/fonts.css" rel="stylesheet" type="text/css"  media="all" />
-      <link href="https://fonts.googleapis.com/css?family=Lora:400,700" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Homemade+Apple" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Open+Sans:300i,400,400i,600,700,800" rel="stylesheet">
+      <?php include_once "config/css.php" ?>
    </head>
    <body>
       <!-- Preloader -->
@@ -520,7 +511,7 @@
                            Frisør Donna vil være din foretrukne herrefrisør eller damefrisør i Glostrup.<br/>Du er altid velkommen til at ringe og høre mere om en pris på din næste klipning eller stille andre spørgsmål.
                            <br><br>
                            Telefon: <a href="tel:53389801" class="link text-color-2">5338 9801</a><br>
-                           Email : <span><a href="mailto:someone@yoursite.com" class="link text-color-2">barbershop@barber.com</a></span><br>
+                           Email : <span><a href="mailto:kontakt@frisørdonna.dk" class="link text-color-2">kontakt@frisørdonna.dk</a></span><br>
                            Adresse: <a target="_blank" href="https://goo.gl/maps/BrQSTUjHir4X6suK8" class="link text-color-2">Pilehusene 52, 2600 Glostrup</a>
                            <br><br>
                            Mandag - Lørdag : 09:00 - 15:30<br>
@@ -592,13 +583,7 @@
          </div>		
       </div>
 
-      <script src="js/jquery-1.12.4.min.js" type="text/javascript"></script>
-      <script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
-      <script src="js/smooth-scroll.js" type="text/javascript"></script>
-      <script src="js/placeholders.min.js" type="text/javascript"></script>
-      <script src="js/instafeed.min.js" type="text/javascript"></script>
-      <script src="js/script.js" type="text/javascript"></script>
-      <script src="js/cookies-popup.js" type="text/javascript"></script>
+      <?php include_once "config/js.php" ?>
    </body>
 </html>
 
