@@ -12,6 +12,7 @@
       <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
       <link href="css/base.css" rel="stylesheet" type="text/css" media="all"/>
       <link href="css/main.css" rel="stylesheet" type="text/css" media="all"/>
+      <link href="css/cookies-popup.css" rel="stylesheet" type="text/css" media="all"/>
       <link href="css/flexslider.css" rel="stylesheet" type="text/css"  media="all" />
       <link href="css/venobox.css" rel="stylesheet" type="text/css"  media="all" />
       <link href="css/fonts.css" rel="stylesheet" type="text/css"  media="all" />
@@ -36,7 +37,7 @@
          <!--Hero section-->
          <section id="hero" class="hero overlay">
             <!--Main slider-->
-            <div class="main-slider  flexslider">
+            <div class="main-slider flexslider">
                <ul class="slides">
                   <li>
                      <div class="background-img zoom">
@@ -114,7 +115,7 @@
                <div class="row">
                   <div class="col-sm-8 col-sm-offset-2 gap-one-bottom">
                      <div class="block-beard">
-                        <img class="mb-0" src="img/3.png" alt="">
+                        <img class="mb-0" src="img/about-us-1.webp" alt="Donna sammen med familien">
                      </div>
                   </div>
                </div>
@@ -488,7 +489,7 @@
                <div class="row">
                   <div class="col-lg-4  col-lg-offset-4 col-sm-6  col-sm-offset-3">
                      <div class="block-contact">
-                        <h3 class=" uppercase text-color-1">Kontaktoplysninger</h3>
+                        <h2 class="text-color-1">Kontaktoplysninger</h2>
                         <p class="lead mb-1">
                            Frisør Donna vil være din foretrukne herrefrisør eller damefrisør i Glostrup.<br/>Du er altid velkommen til at ringe og høre mere om en pris på din næste klipning eller stille andre spørgsmål.
                            <br><br>
@@ -543,7 +544,7 @@
                   <?php include_once "cookies-policy.php" ?>
                </div> 
                <div class="modal-footer">
-                  <button class="action-button close-modal">Luk</button>
+                  <button class="but action-button close-modal">Luk</button>
                </div>
             </div>
          </div>		
@@ -559,7 +560,7 @@
                   <?php include_once "personaldata-policy.php" ?>
                </div> 
                <div class="modal-footer">
-                  <button class="action-button close-modal">Luk</button>
+                  <button class="but action-button close-modal">Luk</button>
                </div>
             </div>
          </div>		
@@ -571,6 +572,7 @@
       <script src="js/placeholders.min.js" type="text/javascript"></script>
       <script src="js/instafeed.min.js" type="text/javascript"></script>
       <script src="js/script.js" type="text/javascript"></script>
+      <script src="js/cookies-popup.js" type="text/javascript"></script>
    </body>
 </html>
 

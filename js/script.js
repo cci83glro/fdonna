@@ -18,6 +18,28 @@
             $(this).closest('.modal').hide();
         });
 
+        $("a.scroll").on('click', function(event) {
+
+            // Make sure this.hash has a value before overriding default behavior
+            if (this.hash !== "") {
+              // Prevent default anchor click behavior
+              event.preventDefault();
+        
+              // Store hash
+              var hash = this.hash;
+        
+              // Using jQuery's animate() method to add smooth page scroll
+              // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+              $('html, body').animate({
+                scrollTop: $(hash).offset().top
+              }, 800, function(){
+        
+                // Add hash (#) to URL when done scrolling (default click behavior)
+                window.location.hash = hash;
+              });
+            } // End if
+          });
+
     });
 
 
@@ -53,9 +75,6 @@
         }
     });
 
-
-
-
     // Hero resize
 
     function mainHeroResize() {
@@ -68,9 +87,6 @@
         $(window).resize(function() {
             mainHeroResize()
         });
-
-
-
 
     // Slider
 
@@ -92,9 +108,6 @@
         pauseOnAction: false,
         animationSpeed: 500
     });
-
-
-
 
     // Mobile menu
 
@@ -128,17 +141,12 @@
 
     });
 
-
-
     // Append images as css background
 
     $('.background-img').each(function() {
         var path = $(this).children('img').attr('src');
         $(this).css('background-image', 'url("' + path + '")').css('background-position', 'initial');
     });
-
-
-
 
     // Tabbed content 
 
@@ -153,9 +161,6 @@
         }
     });
 
-
-
-
     // Instagram feed setup
     var instaFeed = new Instafeed({
         get: 'user',
@@ -166,8 +171,5 @@
         template: '<li><a href="{{link}}"><img src="{{image}}"/></a></li>'
     });
     instaFeed.run();
-
-
-
 
 })(jQuery);
