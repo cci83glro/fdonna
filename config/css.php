@@ -3,7 +3,6 @@
 <link href="css/main.css" rel="stylesheet" type="text/css" media="all"/>
 <link href="css/cookies-popup.css" rel="stylesheet" type="text/css" media="all"/>
 <link href="css/flexslider.css" rel="stylesheet" type="text/css"  media="all" />
-<link href="css/venobox.css" rel="stylesheet" type="text/css"  media="all" />
 <link href="css/fonts.css" rel="stylesheet" type="text/css"  media="all" />
 <link href="https://fonts.googleapis.com/css?family=Lora:400,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Homemade+Apple" rel="stylesheet">

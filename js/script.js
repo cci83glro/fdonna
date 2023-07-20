@@ -161,14 +161,14 @@
     });
 
     // Instagram feed setup
-    var instaFeed = new Instafeed({
-        get: 'user',
-        userId: '6366233572',
-        accessToken: '6366233572.66a2324.a32ba61504e041da93f98ed3905039fb',
-        limit: 10,
-        resolution: 'standard_resolution',
-        template: '<li><a href="{{link}}"><img src="{{image}}"/></a></li>'
-    });
-    instaFeed.run();
+    // var instaFeed = new Instafeed({
+    //     get: 'user',
+    //     userId: '6366233572',
+    //     accessToken: '6366233572.66a2324.a32ba61504e041da93f98ed3905039fb',
+    //     limit: 10,
+    //     resolution: 'standard_resolution',
+    //     template: '<li><a href="{{link}}"><img src="{{image}}"/></a></li>'
+    // });
+    // instaFeed.run();
 
 })(jQuery);
