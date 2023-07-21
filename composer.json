@@ -1,5 +1,6 @@
 {
     "require": {
-        "phpmailer/phpmailer": "*"
+        "phpmailer/phpmailer": "*",
+        "league/oauth2-google": "^4.0"
     }
 }

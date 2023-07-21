@@ -4,6 +4,13 @@ include_once "config/smtp.php";
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
+//use League\OAuth2\Client\Provider\Google;
+
+// $provider = new Google([
+//     'clientId'     => '493366873574-l245e4hve4gkhq9m5n0cg67b42jgnl6e.apps.googleusercontent.com',
+//     'clientSecret' => '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',
+//     'redirectUri'  => 'frisørdonna.dk',
+// ]);
 
 function IsNullOrEmptyString($str){
     return ($str === null || trim($str) === '');
@@ -45,9 +52,9 @@ if (array_key_exists('email', $_POST)) {
 	{
         $mail->Host = $smtp_host;
         $mail->Port = $smtp_port;
-        $mail->SMTPAuth = $smtp_auth;                                   //Enable SMTP authentication
-        $mail->Username = $smtp_usr;                     //SMTP username
-        $mail->Password = $smtp_pwd;                               //SMTP password
+        $mail->SMTPAuth = $smtp_auth;  //Enable SMTP authentication
+        $mail->Username = $smtp_usr;   //SMTP username
+        $mail->Password = $smtp_pwd;   //SMTP password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->setFrom($smtp_fromEmail, $smtp_fromName);
         $mail->addAddress($smtp_toEmail);
@@ -58,11 +65,11 @@ if (array_key_exists('email', $_POST)) {
             $mail->isHTML(false);
             //Build a simple message body
             $mail->Body = <<<EOT
-    Nume: {$_POST['name']}
-    Telefon: {$_POST['phone']}
-    Email: {$_POST['email']}
-    Mesaj: {$_POST['message']}
-    EOT;
+                Nume: {$_POST['name']}
+                Telefon: {$_POST['phone']}
+                Email: {$_POST['email']}
+                Mesaj: {$_POST['message']}
+                EOT;
     
             //Send the message, check for errors
             if (!$mail->send()) {
