@@ -9,7 +9,7 @@ function IsNullOrEmptyString($str){
     return ($str === null || trim($str) === '');
 }
 
-if (array_key_exists('title', $_POST) && !IsNullOrEmptyString($_POST['name'])) {
+if (array_key_exists('title', $_POST) && !IsNullOrEmptyString($_POST['title'])) {
     exit();
 }
 
@@ -74,8 +74,8 @@ if (array_key_exists('email', $_POST)) {
     
                 $response = [
                     "status" => false,
-                    "message" => 'Fejl ved afsendelse af beskeden.'
-                    //"debug" => $mail->ErrorInfo
+                    "message" => 'Fejl ved afsendelse af beskeden.',
+                    "debug" => $mail->ErrorInfo
                 ];
             } else {
                 $response = [

@@ -401,7 +401,7 @@
                      <p class="text-white">Mandag - Lørdag : 09:00 - 15:30<br>
                         Søndag : Lukket<br>
                      </p>
-                     <a id="appointment-btn" href="#appointment" class="but scroll">Ny booking</a>
+                     <a id="appointment-btn" href="https://frisoer-donna.planway.com" target=_blank class="but scroll">Ny booking</a>
                   </div>
                </div>
                <!--End row-->
@@ -412,15 +412,14 @@
 
 
          <!--Appointment section-->
-         <section id="contact-form" class="appointment dotted main bg-beige">
+         <section class="appointment dotted main bg-beige">
             <!--Container-->
             <div class="container">
                <!--Row-->
                <div class="row">
                   <div class="col-sm-12 text-center gap-one-bottom">
                      <h2 class="text-color-1 mb-0">Skriv til mig</h2>
-                     <!-- <p class="text-color-2">Book your service</p> -->
-                     <p class="lead mb-0">Du må meget gerne sende en besked ved at bruge kontaktformularen nedenunder</p>
+                     <!-- <p class="text-color-2">Book your service</p> -->                     
                   </div>
                </div>
                <!--End row-->
@@ -432,13 +431,17 @@
                <div class="row">
                   <div class="col-md-8 col-md-offset-2">
                      <div class="block-boxe border bg-white">
-                        <form method="post" class="appointment-form form" action="mailer.php">
+                        <form method="post" id="contact-form" class="appointment-form form" action="mailer.php">
+                           <div class="col-sm-12">
+                              <p class="lead">Du må meget gerne sende en besked ved at bruge kontakt formularen nedenunder</p>
+                           </div>
+
                            <div class="col-sm-6 background">
                               <div class="block-input ico-input">
                                  <label><span>Title:</span></label>
                                  <div class="input-inner">
                                     <i class="icon-tag-1"></i>
-                                    <input value="" id="user-title" name="title" type="text" >
+                                    <input value="" id="title" name="title" type="text" >
                                  </div>
                               </div>
                            </div>
@@ -447,7 +450,7 @@
                                  <label><span>Navn:</span></label>
                                  <div class="input-inner">
                                     <i class="icon-user-1"></i>
-                                    <input value="" id="user-name" name="name" type="text" >
+                                    <input value="" id="name" name="name" type="text" >
                                  </div>
                               </div>
                            </div>
@@ -456,7 +459,7 @@
                                  <label><span>Email:</span></label>
                                  <div class="input-inner">
                                     <i class="icon-mail-1"></i>
-                                    <input value="" id="user-email" name="email" type="text">
+                                    <input value="" id="email" name="email" type="text">
                                  </div>
                               </div>
                            </div>
@@ -465,7 +468,7 @@
                                  <label><span>Telefon:</span></label>
                                  <div class="input-inner">
                                     <i class="icon-phone"></i>
-                                    <input value="" id="user-phone" name="phone" type="text">
+                                    <input value="" id="phone" name="phone" type="text">
                                  </div>
                               </div>
                            </div>
@@ -474,7 +477,7 @@
                                  <label><span>Besked:</span></label>
                                  <div class="input-inner">
                                     <i class="icon-doc-text-1"></i>
-                                    <textarea value="" id="user-message" name="message" rows="5"></textarea>
+                                    <textarea value="" id="message" name="message" rows="5"></textarea>
                                  </div>
                               </div>
                            </div>
@@ -486,9 +489,15 @@
                            </div>
 
                            <div class="col-sm-12">
-                              <p class="error">dfgdf</p>
-                           </div>
+                              <p class="error text-align-center" id="err-name">Ugyldigt / tomt navn</p>
+                              <p class="error text-align-center" id="err-email">Ugyldig / tom email</p>
+                              <p class="error text-align-center" id="err-timeout">Det tager lidt for lang tid ... prøv venligst igen senere eller bare ring til mig. Jeg glæder mig til at tale sammen!</p>
+                              <p class="error text-align-center" id="err-state">Error</p>                              
+                           </div>                           
                         </form>
+                        <div class="col-sm-12">
+                           <p id="ajaxsuccess">Tak for din besked, du hører fra mig hurtigst muligt!</p>
+                        </div>
                      </div>
                   </div>
                </div>

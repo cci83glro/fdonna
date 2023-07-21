@@ -7,7 +7,7 @@
 
         // Site loader 
 
-        $(".loader-inner").fadeOut();
+        //$(".loader-inner").fadeOut();
         $(".loader").delay(200).fadeOut("slow");
 
         $('.open-modal').click(function (event) {

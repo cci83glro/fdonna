@@ -1,10 +1,5 @@
-	
-jQuery(document).ready(function ($) { // wait until the document is ready
-	$('#contact-send-button').click(function(){ // when the button is clicked the code executes
-		$('.error').fadeOut('slow'); // reset the error messages (hides them)
-		$('.loader').fadeIn('slow');
-
-		var error = false; // we will set this true if the form isn't valid
+function validateAndSendForm() {
+	var error = false; // we will set this true if the form isn't valid
 
 		var name = $('input#name').val(); // get the value of the input field
 		if(name == "" || name == " ") {
@@ -12,31 +7,35 @@ jQuery(document).ready(function ($) { // wait until the document is ready
 			error = true; // change the error state to true
 		}
 
+		if (error == true)
+		{
+			$('.loader').fadeOut('slow');
+			return;
+		}
+
 		var email_compare = /^([a-z0-9_.-]+)@([da-z.-]+).([a-z.]{2,6})$/; // Syntax to compare against input
 		var email = $('input#email').val(); // get the value of the input field
-		if (email == "" || email == " ") { // check if the field is empty
+		if (email == "" || email == " " || !email_compare.test(email)) { // check if the field is empty
 			$('#err-email').fadeIn('slow'); // error - empty
 			error = true;
-		}else if (!email_compare.test(email)) { // if it's not empty check the format against our email_compare variable
-			$('#err-emailvld').fadeIn('slow'); // error - not right format
-			error = true;
 		}
 
-		if(error == true) {
-			$('#err-form').slideDown('slow');
-			return false;
+		if (error == true)
+		{
+			$('.loader').fadeOut('slow');
+			return;
 		}
 
-		var data_string = $('#ajax-form').serialize(); // Collect data from form
+		var data_string = $('#contact-form').serialize(); // Collect data from form
 
 		$.ajax({
 			type: "POST",
-			url: $('#ajax-form').attr('action'),
+			url: $('#contact-form').attr('action'),
 			data: data_string,
 			timeout: 6000,
 			error: function(request,error) {
 				if (error == "timeout") {
-					$('#err-timedout').slideDown('slow');
+					$('#err-timeout').slideDown('slow');
 				}
 				else {
 					$('#err-state').slideDown('slow');
@@ -44,12 +43,18 @@ jQuery(document).ready(function ($) { // wait until the document is ready
 				}
 			},
 			success: function() {
-				$('#ajax-form').slideUp('slow');
+				$('#contact-form').slideUp('slow');
 				$('#ajaxsuccess').slideDown('slow');
 			}
 		});
 
 		$('.loader').fadeOut('slow');
 		return false;
+}
+
+jQuery(document).ready(function ($) { // wait until the document is ready
+	$('#contact-send-button').click(function(){ // when the button is clicked the code executes
+		$('.error').fadeOut('slow'); // reset the error messages (hides them)
+		$('.loader').fadeIn('slow', validateAndSendForm);
 	});
 });

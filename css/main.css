@@ -647,6 +647,23 @@ select:focus {
 	color: red;
 	display: none;
 }
+#contact-form .lead {
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+#ajaxsuccess {
+	/*background: transparent;
+	font: 20px/60px 'Roboto', sans-serif;
+	height:60px; */
+	display: none;
+	color: var(--content-color-2);
+	/* width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	text-align: center; */
+}
 
 .block-social li {
 	display: inline-block;
