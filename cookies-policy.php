@@ -41,4 +41,4 @@
 Pilehusene 52<br/>
 2600 Glostrup<br/>
 Telefon: 53389801<br/>
-Email: kontakt@frisørdonna.dk</p>
+Email: kontakt@frisoerdonna.dk</p>

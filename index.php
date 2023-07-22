@@ -546,8 +546,8 @@
                            Søndag : Lukket<br>
                         </p>
                         <ul class="block-social">
-                           <li><a href="#"><i class="icon-twitter"></i></a></li>
-                           <li><a href="#"><i class="icon-instagram-1"></i></a></li>
+                           <li><a href="https://www.facebook.com/FrisorDonna" target=_blank><i class="icon-facebook"></i></a></li>
+                           <li><a href="https://instagram.com/frisor_donna?igshid=NTc4MTIwNjQ2YQ==" target=_blank><i class="icon-instagram-1"></i></a></li>
                         </ul>
                      </div>
                   </div>

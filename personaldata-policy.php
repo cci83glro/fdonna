@@ -12,7 +12,7 @@
 
 <h3>Den dataansvarlige</h3>
 
-<p>Den dataansvarlige for indsamling, behandling og anvendelse af dine personoplysninger på www.frisørdonna.dk er Frisør Donna, Pilehusene 52, 2600 Glostrup, cvr nr. 42228923.</p>
+<p>Den dataansvarlige for indsamling, behandling og anvendelse af dine personoplysninger på www.frisoerdonna.dk er Frisør Donna, Pilehusene 52, 2600 Glostrup, cvr nr. 42228923.</p>
 
 <h3>Behandlingsgrundlag og formål</h3>
 
@@ -35,4 +35,4 @@
 </ul>
 
 <p>Du har derudover ret til at protestere over behandlingen af dine personlige data, og du har ret til at indgive klage til en databeskyttelsesmyndighed.</p>
-<p>Ønsker du ikke længere, at vi skal behandle dine personoplysninger, eller at vi skal begrænse behandlingen af dine personoplysninger, kan du også sende os en anmodning herom til vores e-mailadresse kontakt@frisørdonna.dk.</p>
+<p>Ønsker du ikke længere, at vi skal behandle dine personoplysninger, eller at vi skal begrænse behandlingen af dine personoplysninger, kan du også sende os en anmodning herom til vores e-mailadresse kontakt@frisoerdonna.dk.</p>
