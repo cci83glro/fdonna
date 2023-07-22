@@ -167,7 +167,7 @@
                            <li>
                               <div class="block-review">
                                  <h4 class="uppercase mb-0 text-color-2">Puk Mogensen</h4>
-                                 <!-- <span class="text-color-2">Client for 2 year</span> -->
+                                 <span class="text-color-1">Kunde</span>
                                  <blockquote>“ Donna er den bedste frisør af alle, hun er så dygtig og leverer fantastiske resultater “  </blockquote>
                                  <ul class="block-star mt-10">
                                     <li><i class="icon-star"></i></li>
@@ -182,6 +182,7 @@
                            <li>
                               <div class="block-review">
                                  <h4 class="uppercase mb-0 text-color-2">Racha Tahhan</h4>
+                                 <span class="text-color-1">Kunde</span>
                                  <blockquote>“ Hun er fantastisk dygtig og meget sød. De varmeste anbefalinger herfra “ </blockquote>
                                  <ul class="block-star mt-10">
                                     <li><i class="icon-star"></i></li>
@@ -195,6 +196,7 @@
                            <li>
                               <div class="block-review">
                                  <h4 class="uppercase mb-0 text-color-2">Olga Koreshkova</h4>
+                                 <span class="text-color-1">Kunde</span>
                                  <blockquote>“ Den bedste frisør i Danmark! Nu skal jeg gå kun til Donna. Jeg er meget tilfreds med både balayage og klipning “ </blockquote>
                                  <ul class="block-star mt-10">
                                     <li><i class="icon-star"></i></li>
@@ -208,6 +210,7 @@
                            <li>
                               <div class="block-review">
                                  <h4 class="uppercase mb-0 text-color-2">Susan He</h4>
+                                 <span class="text-color-1">Kunde</span>
                                  <blockquote>“ Mine varmeste anbefalinger til Frisør Donna! Jeg er simpelthen så glad for min nye frisure - den blev endnu flottere end det, jeg havde tænkt. Hos Donna er man i trygge hænder! “ </blockquote>
                                  <ul class="block-star mt-10">
                                     <li><i class="icon-star"></i></li>
@@ -250,25 +253,25 @@
                      <ul class="block-tabs text-center">
                         <li class="active overlay">
                            <div class="background-img" >
-                              <img src="img/19.jpg" alt="">
+                              <img src="img/background-category.webp" alt="Category background image">
                            </div>
                            <span class="front-p">Herre</span>
                         </li>
                         <li class=" overlay">
                            <div class="background-img" >
-                              <img src="img/20.jpg" alt="">
+                              <img src="img/background-category.webp" alt="Category background image">
                            </div>
                            <span class="front-p">Kvinder</span>
                         </li>
                         <li class=" overlay">
                            <div class="background-img" >
-                              <img src="img/21.jpg" alt="">
+                              <img src="img/background-category.webp" alt="Category background image">
                            </div>
                            <span class="front-p">Pensionist</span>
                         </li>
                         <li class=" overlay">
                            <div class="background-img" >
-                              <img src="img/21.jpg" alt="">
+                              <img src="img/background-category.webp" alt="Category background image">
                            </div>
                            <span class="front-p">Børn</span>
                         </li>
