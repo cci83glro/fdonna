@@ -5,9 +5,28 @@
    <head>
       <!-- Metas -->
       <meta charset="utf-8">
-      <title>Frisør Donna</title>
-      <meta name="description" content="">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Frisør Donna | Den bedste frisør i Danmark</title>
+
+     	<meta name="description" content="Frisør Donna er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Glostrup. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+      <meta name="robots" content="max-image-preview:large">
+      <link rel="canonical" href="https://frisoerdonna.dk/">
+      <meta property="og:locale" content="da_DK">
+      <meta property="og:site_name" content="Frisør Donna | Den bedste frisør i Danmark">
+      <meta property="og:type" content="website">
+      <meta property="og:title" content="Frisør Donna | Den bedste frisør i Danmark">
+      <meta property="og:description" content="Frisør Donna er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Glostrup. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+      <meta property="og:url" content="https://frisoerdonna.dk/">
+      <meta property="og:image" content="https://frisoerdonna.dk/img/logo_100_100.png">
+      <meta property="og:image:secure_url" content="https://frisoerdonna.dk/img/logo_100_100.png">
+      <meta property="og:image:width" content="100">
+      <meta property="og:image:height" content="100">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:title" content="Frisør Donna | Den bedste frisør i Danmark">
+      <meta name="twitter:description" content="Frisør Donna er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Glostrup. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+      <meta name="twitter:image" content="https://frisoerdonna.dk/img/logo_100_100.png">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
+
       <!-- Css -->
       <?php include_once "config/css.php" ?>
    </head>
@@ -520,7 +539,7 @@
                            Frisør Donna vil være din foretrukne herrefrisør eller damefrisør i Glostrup.<br/>Du er altid velkommen til at ringe og høre mere om en pris på din næste klipning eller stille andre spørgsmål.
                            <br><br>
                            Telefon: <a href="tel:53389801" class="link text-color-2">5338 9801</a><br>
-                           Email : <span><a href="mailto:kontakt@frisørdonna.dk" class="link text-color-2">kontakt@frisørdonna.dk</a></span><br>
+                           Email : <span><a href="mailto:kontakt@frisoerdonna.dk" class="link text-color-2">kontakt@frisoerdonna.dk</a></span><br>
                            Adresse: <a target="_blank" href="https://goo.gl/maps/BrQSTUjHir4X6suK8" class="link text-color-2">Pilehusene 52, 2600 Glostrup</a>
                            <br><br>
                            Mandag - Lørdag : 09:00 - 15:30<br>
