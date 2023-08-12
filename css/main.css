@@ -176,7 +176,7 @@ section.hero .inner-hero {
 	z-index: 10;
 }
 .header {
-	padding: 25px 0;
+	padding: 31px 0;
 }
 .main-slider .slides li {
 	background-size: cover;
@@ -221,13 +221,13 @@ section.hero .inner-hero {
 
 .header .logo-img{
 	position:absolute;
-	width:80px;
-	height:80px;
+	width:100px;
+	height:105px;
 	z-index:10000;
 	left:2em;
 	top:1px;
 	background:url('../img/logo_200_200.png') no-repeat center center;
-	background-size:80px 80px;
+	background-size:100px 100px;
 }
 
 .header.switched-header .logo h2 {
@@ -299,7 +299,7 @@ section.hero .inner-hero {
 	display: block;
 	float: left;
 	margin-left: 1.9625em;
-	font-size: .71875em;
+	font-size: 1em;
 	font-weight: 600;
 	text-transform: uppercase;
 }
@@ -324,9 +324,10 @@ section.hero .inner-hero {
 	-o-transform: translateY(-50%);
 }
 h1.large {
-	font-size: 3.4375em;
+	font-size: 5em;
 	text-transform: none;
-	line-height: 1.5em;
+	line-height: 1.2em;
+	font-weight: 500;
 }
 /* End hero Section*/
 
@@ -505,6 +506,12 @@ select:focus {
 	height: 40px;
 	line-height: 0;
 	text-align: center;
+}
+#appointment h4 {
+	font-size: 1.3em;
+}
+#appointment p {
+	font-size: 1em;
 }
 /*End reservation section*/
 

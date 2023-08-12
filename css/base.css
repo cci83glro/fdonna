@@ -209,7 +209,7 @@ h6,
 	position: relative;
 }
 .secondary-font {
-	font-family: 'Homemade Apple', cursive;
+	font-family: 'Courgette';
 }
 h1 {
 	font-size: 3.4375em;
@@ -239,7 +239,7 @@ h5 {
 }
 h6 {
 	letter-spacing: 0.1875em;
-	font-size: .8125em;
+	font-size: 1em;
 }
 h1.medium {
 	font-size: 2.25em;
@@ -450,7 +450,7 @@ input[type="text"],
 	-moz-border-radius: 6px;
 	-ms-border-radius: 6px;
 	-o-border-radius: 6px;
-	font-size: .7em;
+	font-size: 1em;
 	font-weight: 600;
 	-webkit-user-select: none;
 	-moz-user-select: none;
