@@ -7,14 +7,14 @@
       <meta charset="utf-8">
       <title>Frisør Donna | Den bedste frisør i Danmark</title>
 
-     	<meta name="description" content="Frisør Donna er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Glostrup. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+     	<meta name="description" content="Frisør Donna er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
       <meta name="robots" content="max-image-preview:large">
       <link rel="canonical" href="https://frisoerdonna.dk/">
       <meta property="og:locale" content="da_DK">
       <meta property="og:site_name" content="Frisør Donna | Den bedste frisør i Danmark">
       <meta property="og:type" content="website">
       <meta property="og:title" content="Frisør Donna | Den bedste frisør i Danmark">
-      <meta property="og:description" content="Frisør Donna er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Glostrup. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+      <meta property="og:description" content="Frisør Donna er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
       <meta property="og:url" content="https://frisoerdonna.dk/">
       <meta property="og:image" content="https://frisoerdonna.dk/img/logo_100_100.png">
       <meta property="og:image:secure_url" content="https://frisoerdonna.dk/img/logo_100_100.png">
@@ -22,7 +22,7 @@
       <meta property="og:image:height" content="100">
       <meta name="twitter:card" content="summary_large_image">
       <meta name="twitter:title" content="Frisør Donna | Den bedste frisør i Danmark">
-      <meta name="twitter:description" content="Frisør Donna er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Glostrup. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+      <meta name="twitter:description" content="Frisør Donna er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
       <meta name="twitter:image" content="https://frisoerdonna.dk/img/logo_100_100.png">
 
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
@@ -138,7 +138,7 @@
                <div class="row">
                   <div class="col-sm-6 col-sm-offset-3 ">
                      <div class="block-content mb-0">
-                        <h3 class="uppercase mb-0">Jeg hedder Egzona og jeg driver en lille, hyggelig og professionel frisør salon i mit hjem i Glostrup
+                        <h3 class="uppercase mb-0">Jeg hedder Egzona og jeg driver en lille, hyggelig og professionel frisør salon i mit hjem i Ringsted
                            <span class="dots"></span>
                         </h3>
                         <h4 class="uppercase mb-1">Kunderne får altid en god oplevelse</h4>
@@ -423,7 +423,7 @@
                      <p class="text-white">Mandag - Lørdag : 09:00 - 15:30<br>
                         Søndag : Lukket<br>
                      </p>
-                     <a id="appointment-btn" href="https://frisoer-donna.planway.com" target=_blank class="but scroll">Ny booking</a>
+                     <!--a id="appointment-btn" href="https://frisoer-donna.planway.com" target=_blank class="but scroll">Ny booking</a-->
                   </div>
                </div>
                <!--End row-->
@@ -539,11 +539,11 @@
                      <div class="block-contact">
                         <h2 class="text-color-1">Kontaktoplysninger</h2>
                         <p class="lead mb-1">
-                           Frisør Donna vil være din foretrukne herrefrisør eller damefrisør i Glostrup.<br/>Du er altid velkommen til at ringe og høre mere om en pris på din næste klipning eller stille andre spørgsmål.
+                           Frisør Donna vil være din foretrukne herrefrisør eller damefrisør i Ringsted.<br/>Du er altid velkommen til at ringe og høre mere om en pris på din næste klipning eller stille andre spørgsmål.
                            <br><br>
                            Telefon: <a href="tel:53389801" class="link text-color-2">5338 9801</a><br>
                            Email : <span><a href="mailto:kontakt@frisoerdonna.dk" class="link text-color-2">kontakt@frisoerdonna.dk</a></span><br>
-                           Adresse: <a target="_blank" href="https://goo.gl/maps/BrQSTUjHir4X6suK8" class="link text-color-2">Pilehusene 52, 2600 Glostrup</a>
+                           Adresse: <a target="_blank" href="https://maps.app.goo.gl/VEH9TuvNQhk1dB897" class="link text-color-2">Binningebækken 30, 4100 Ringsted</a>
                            <br><br>
                            Mandag - Lørdag : 09:00 - 15:30<br>
                            Søndag : Lukket<br>
@@ -560,7 +560,7 @@
             <!--End container-->
          </section>
          <section class="google-maps">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.904777550748!2d12.37269007719501!3d55.67325599811487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465250b40f57642d%3A0xd07120592ac7399c!2sPilehusene%2052%2C%202600%20Glostrup!5e0!3m2!1sen!2sdk!4v1686942237666!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2261.425513720692!2d11.785307376727133!3d55.4726810729818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46528fcc9c0d0e11%3A0x60251087f8766b1f!2sBinningeb%C3%A6kken%2030%2C%204100%20Ringsted!5e0!3m2!1sen!2sdk!4v1703588947111!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
          </section>
          <!--End contact section-->
          <footer class="footer bg-beige gap-double-sm">
