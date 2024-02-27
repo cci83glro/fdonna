@@ -94,8 +94,8 @@
                   <!--Row-->
                   <div class="row">
                      <div class="col-sm-12 text-center">
-                        <h1 class="large text-white secondary-font mb-1">Velkommen  til<br/>Frisør  Donna</h1>
-                        <h6 class="mb-0 text-white uppercase">Jeg leverer fantastiske kundeoplevelser</h6>
+                        <h1 class="large text-white secondary-font mb-1">Familievenlig<br/>Bella Donna Salon</h1>
+                        <h6 class="mb-0 text-white uppercase">Egzona - Indehaver af salon  / professionel frisør</h6>
                      </div>
                   </div>
                   <!--End row-->
@@ -138,13 +138,13 @@
                <div class="row">
                   <div class="col-sm-6 col-sm-offset-3 ">
                      <div class="block-content mb-0">
-                        <h3 class="uppercase mb-0">Jeg hedder Egzona og jeg driver en lille, hyggelig og professionel frisør salon i mit hjem i Ringsted
+                        <!-- <h3 class="uppercase mb-0">Jeg hedder Egzona og jeg driver en hyggelig, men yderst professionel frisør salon i Ringsted
                            <span class="dots"></span>
-                        </h3>
-                        <h4 class="uppercase mb-1">Kunderne får altid en god oplevelse</h4>
-                        <p class="mb-05">Uanset om du leder efter en herrefrisør eller damefrisør, så får du hos Frisør Donna en frisør med mere end 15 års erfaring. Jeg tilbyder alle former for behandling inden for farve, hårklip, permanent og meget mere.</p>
-                        <p class="mb-05">For mig er det yderst vigtigt, at kunderne føler sig godt tilpas og gerne vil komme tilbage næste gang, når de har brug for en frisør. Derfor bruger jeg altid meget tid på at snakke med dem om deres ønsker og forventninger.</p>
-                        <p class="mb-2">Samtidig elsker jeg at bruge min erfaring og kommer gerne med gode forslag til, hvad der ville virke bedst for hver kundes hår, og jeg sørger samtidig for, at de får en personlig oplevelse og føler sig tryg.</p>
+                        </h3> -->
+                        <h4 class="uppercase mb-1">Egzona - Indehaver af salon  / professionel frisør</h4>
+                        <p class="mb-1">Bella Donna Salon er ejet af Egzona Rashiti, som er uddannet med den 4-årige uddannelse - bestået med fantastisk resusltat. Egzona R. har dygtiggjort sig i at have et bredt udvalg af alle hendes behandlinger. Hun har mere end 15 års erfaring og er specialist i balayage, klipning og babylights. Hun brænder for sit fag og udviklingen i faget. Hun holder sig opdateret ifht. tidens trends og de nyeste modetendenser, hvorfor hun løbende deltager i diverse kurser. Samtidig elsker hun at bruge hendes erfaring og kommer gerne med gode forslag til, hvad der ville virke bedst for hver kundes hår, og sørger samtidig for, at kunden får en personlig oplevelse og føler sig tryg.</p>
+                        <!-- <p class="mb-05">For mig er det yderst vigtigt, at kunderne føler sig godt tilpas og gerne vil komme tilbage næste gang, når de har brug for en frisør. Derfor bruger jeg altid meget tid på at snakke med dem om deres ønsker og forventninger.</p> -->
+                        <p class="mb-2">Frisørfaget er for mig mere end bare en karriere; det er en livsstil. Mit mål er at skabe en enestående oplevelse, hvor du føler dig hjemme. Når du træder ind i Bella Donna Salon, handler det om dig og dine ønsker. Vi kan snakke om dine hårdrømme, og jeg deler gerne min professionelle og ærlige ekspertise. Mit højeste mål er, at du forlader salonen med en fornyet selvtillid og et fantastisk hår. Hos mig får du den klipning DU ønsker. I Bella Donna salonen er det altid gæsten, der er i centrum.</p>
                         <p class="signature secondary-font mb-0">Frisør Donna</p>
                      </div>
                   </div>
@@ -420,9 +420,13 @@
                   <div class="col-sm-12 text-center front-p">
                      <h1 class=" large text-white  secondary-font">Book en tid</h1>
                      <h4 class="uppercase text-white">Åbningstider</h4>
-                     <p class="text-white">Mandag - Lørdag : 09:00 - 15:30<br>
-                        Søndag : Lukket<br>
-                     </p>
+                     <p class="text-white">Mandag : Efter aftale</p>
+                     <p class="text-white">Tirsdag : 09:30 - 16:00</p>
+                     <p class="text-white">Onsdag : 09:30 - 16:00</p>
+                     <p class="text-white">Torsdag : 09:30 - 16:00</p>
+                     <p class="text-white">Fredag : 09:00 - 16:00</p>
+                     <p class="text-white">Lørdag : 09:30 - 14:00</p>
+                     <p class="text-white">Søndag : Efter aftale</p>
                      <!--a id="appointment-btn" href="https://frisoer-donna.planway.com" target=_blank class="but scroll">Ny booking</a-->
                   </div>
                </div>
@@ -535,18 +539,16 @@
             <div class="container">
                <!--Row-->
                <div class="row">
-                  <div class="col-lg-4  col-lg-offset-4 col-sm-6  col-sm-offset-3">
-                     <div class="block-contact">
-                        <h2 class="text-color-1">Kontaktoplysninger</h2>
-                        <p class="lead mb-1">
+                  <!-- <div class="col-lg-6  col-lg-offset-4 col-sm-6  col-sm-offset-3"> -->
+                  <h2 class="text-color-1 mb-15">Kontaktoplysninger</h2>
+                  <div class="col-sm-4 col-sm-offset-1">
+                     <div class="block-contact">                        
+                        <p class="lead mb-15">
                            Frisør Donna vil være din foretrukne herrefrisør eller damefrisør i Ringsted.<br/>Du er altid velkommen til at ringe og høre mere om en pris på din næste klipning eller stille andre spørgsmål.
                            <br><br>
                            Telefon: <a href="tel:53389801" class="link text-color-2">5338 9801</a><br>
                            Email : <span><a href="mailto:kontakt@frisoerdonna.dk" class="link text-color-2">kontakt@frisoerdonna.dk</a></span><br>
                            Adresse: <a target="_blank" href="https://maps.app.goo.gl/VEH9TuvNQhk1dB897" class="link text-color-2">Binningebækken 30, 4100 Ringsted</a>
-                           <br><br>
-                           Mandag - Lørdag : 09:00 - 15:30<br>
-                           Søndag : Lukket<br>
                         </p>
                         <ul class="block-social">
                            <li><a href="https://www.facebook.com/FrisorDonna" target=_blank><i class="icon-facebook"></i></a></li>
@@ -554,13 +556,13 @@
                         </ul>
                      </div>
                   </div>
+                  <div class="col-sm-4 col-sm-offset-2 google-maps">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2261.425513720692!2d11.785307376727133!3d55.4726810729818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46528fcc9c0d0e11%3A0x60251087f8766b1f!2sBinningeb%C3%A6kken%2030%2C%204100%20Ringsted!5e0!3m2!1sen!2sdk!4v1703588947111!5m2!1sen!2sdk" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                  </div>
                </div>
                <!--End row-->
             </div>
             <!--End container-->
-         </section>
-         <section class="google-maps">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2261.425513720692!2d11.785307376727133!3d55.4726810729818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46528fcc9c0d0e11%3A0x60251087f8766b1f!2sBinningeb%C3%A6kken%2030%2C%204100%20Ringsted!5e0!3m2!1sen!2sdk!4v1703588947111!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
          </section>
          <!--End contact section-->
          <footer class="footer bg-beige gap-double-sm">

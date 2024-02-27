@@ -324,7 +324,7 @@ section.hero .inner-hero {
 	-o-transform: translateY(-50%);
 }
 h1.large {
-	font-size: 5em;
+	font-size: 4em;
 	text-transform: none;
 	line-height: 1.2em;
 	font-weight: 500;
@@ -659,6 +659,7 @@ select:focus {
 	text-align: center;
 }
 
+
 #ajaxsuccess {
 	/*background: transparent;
 	font: 20px/60px 'Roboto', sans-serif;
@@ -702,7 +703,7 @@ a.scroll-top {
 	display: none;
 }
 .google-maps {
-	height: 450px;
+	height: 300px;
 }
 /* End contact section*/
 
@@ -720,8 +721,8 @@ a.scroll-top {
 	content: none;
 }
 .footer p {
-	font-size: .8em;
-	line-height: 2em;
+	font-size: 1.2em;
+	line-height: 1.6em;
 }
 /* End footer section*/
 
