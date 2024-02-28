@@ -427,7 +427,7 @@
                      <p class="text-white">Fredag : 09:00 - 16:00</p>
                      <p class="text-white">Lørdag : 09:30 - 14:00</p>
                      <p class="text-white">Søndag : Efter aftale</p>
-                     <!--a id="appointment-btn" href="https://frisoer-donna.planway.com" target=_blank class="but scroll">Ny booking</a-->
+                     <a id="appointment-btn" href="https://frisoer-donna.planway.com" target=_blank class="but scroll">Ny booking</a>
                   </div>
                </div>
                <!--End row-->
@@ -549,6 +549,7 @@
                            Telefon: <a href="tel:53389801" class="link text-color-2">5338 9801</a><br>
                            Email : <span><a href="mailto:kontakt@frisoerdonna.dk" class="link text-color-2">kontakt@frisoerdonna.dk</a></span><br>
                            Adresse: <a target="_blank" href="https://maps.app.goo.gl/VEH9TuvNQhk1dB897" class="link text-color-2">Binningebækken 30, 4100 Ringsted</a>
+                           <br><br>Vurderet 5/5 på Facebook
                         </p>
                         <ul class="block-social">
                            <li><a href="https://www.facebook.com/FrisorDonna" target=_blank><i class="icon-facebook"></i></a></li>
@@ -557,7 +558,7 @@
                      </div>
                   </div>
                   <div class="col-sm-4 col-sm-offset-2 google-maps">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2261.425513720692!2d11.785307376727133!3d55.4726810729818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46528fcc9c0d0e11%3A0x60251087f8766b1f!2sBinningeb%C3%A6kken%2030%2C%204100%20Ringsted!5e0!3m2!1sen!2sdk!4v1703588947111!5m2!1sen!2sdk" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2261.425513720692!2d11.785307376727133!3d55.4726810729818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46528fcc9c0d0e11%3A0x60251087f8766b1f!2sBinningeb%C3%A6kken%2030%2C%204100%20Ringsted!5e0!3m2!1sen!2sdk!4v1703588947111!5m2!1sen!2sdk" width="600" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                   </div>
                </div>
                <!--End row-->

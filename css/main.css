@@ -221,13 +221,13 @@ section.hero .inner-hero {
 
 .header .logo-img{
 	position:absolute;
-	width:100px;
-	height:105px;
+	width:200px;
+	height:100px;
 	z-index:10000;
 	left:2em;
 	top:1px;
-	background:url('../img/logo_200_200.png') no-repeat center center;
-	background-size:100px 100px;
+	background:url('../img/logo_200_80.png') no-repeat center center;
+	background-size:200px 80px;
 }
 
 .header.switched-header .logo h2 {
