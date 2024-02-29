@@ -415,7 +415,7 @@ section.services .container:last-child .row:last-child {
 /* End review section*/
 
 .block-boxe {
-	padding: 2.4857em;
+	padding: 1em;
 	border-radius: 6px;
 	-webkit-border-radius: 6px;
 	-moz-border-radius: 6px;
@@ -425,6 +425,13 @@ section.services .container:last-child .row:last-child {
 }
 .block-boxe.border {
 	border: 1px solid rgba(85, 45, 35, .25);
+}
+.block-boxe .header-icon{
+	font-size: 2.8em;
+}
+.block-boxe h3{
+	font-size: 1.3em;
+	text-transform: none;
 }
 /* Reservation section*/
 

@@ -563,6 +563,9 @@ div[class*="col-"].gap-double-sm,
 img {
 	margin-bottom: 1.875em;
 }
+.header-icon {
+	color: var(--content-color-2);
+}
 /*End links*/
 
 /*Misc */

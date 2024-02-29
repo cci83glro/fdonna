@@ -155,6 +155,71 @@
          </section>
          <!--End about section-->
 
+         <!--News section-->
+         <section id="news" class="news  main text-center">
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row">
+                  <div class="col-sm-12 text-center gap-one-bottom">
+                     <h2 class="text-brown mb-0">Derfor skal du vælge os!</h2>
+                     <!-- <p class="text-beige mb-0">Barbers talk</p> -->
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row block-enhanced">
+                  <div class="col-sm-3 enhanced">
+                     <div class=" block-content bg-beige">
+                        <div class=" block-boxe">
+                           <i class="icon-heart-empty header-icon"></i>
+                           <h3 class="text-brown mb-1">Hyggelig atmosfære</h3>
+                           <p class="content">Mit mål er at skabe en enestående oplevelse, hvor du føler dig hjemme.</p>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-sm-3 enhanced">
+                     <div class=" block-content bg-beige">
+                        <div class=" block-boxe">
+                           <i class="icon-brush-1 header-icon"></i>
+                           <h3 class="uppercase text-brown mb-1">Hyggelig atmosfære</h3>
+                           <p class="content">Bella Donna Salon er ejet af Egzona Rashiti, som er uddannet med den 4-årige uddannelse - bestået med fantastisk resusltat.</p>                           
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-sm-3 enhanced">
+                     <div class=" block-content bg-beige">
+                        <div class=" block-boxe">
+                           <i class="icon-star-empty header-icon"></i>
+                           <h3 class="uppercase text-brown mb-1">Hyggelig atmosfære</h3>
+                           <p class="content">Bella Donna Salon er ejet af Egzona Rashiti, som er uddannet med den 4-årige uddannelse - bestået med fantastisk resusltat.</p>                           
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-sm-3 enhanced">
+                     <div class=" block-content bg-beige">
+                        <div class=" block-boxe">
+                           <i class="icon-diamond header-icon"></i>
+                           <h3 class="uppercase text-brown mb-1">Hyggelig atmosfære</h3>
+                           <p class="content">Bella Donna Salon er ejet af Egzona Rashiti, som er uddannet med den 4-årige uddannelse - bestået med fantastisk resusltat.</p>                           
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+         </section>
+         <!--End news section-->
+
          <!--Review section-->
          <section class="review  bg-beige dotted">
             <!--Container-->
