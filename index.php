@@ -187,17 +187,7 @@
                      <div class=" block-content bg-beige">
                         <div class=" block-boxe">
                            <i class="icon-brush-1 header-icon"></i>
-                           <h3 class="uppercase text-brown mb-1">Hyggelig atmosfære</h3>
-                           <p class="content">Bella Donna Salon er ejet af Egzona Rashiti, som er uddannet med den 4-årige uddannelse - bestået med fantastisk resusltat.</p>                           
-                           </a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-3 enhanced">
-                     <div class=" block-content bg-beige">
-                        <div class=" block-boxe">
-                           <i class="icon-star-empty header-icon"></i>
-                           <h3 class="uppercase text-brown mb-1">Hyggelig atmosfære</h3>
+                           <h3 class="uppercase text-brown mb-1">Stor erfaring</h3>
                            <p class="content">Bella Donna Salon er ejet af Egzona Rashiti, som er uddannet med den 4-årige uddannelse - bestået med fantastisk resusltat.</p>                           
                            </a>
                         </div>
@@ -207,7 +197,17 @@
                      <div class=" block-content bg-beige">
                         <div class=" block-boxe">
                            <i class="icon-diamond header-icon"></i>
-                           <h3 class="uppercase text-brown mb-1">Hyggelig atmosfære</h3>
+                           <h3 class="uppercase text-brown mb-1">Professionalisme</h3>
+                           <p class="content">Bella Donna Salon er ejet af Egzona Rashiti, som er uddannet med den 4-årige uddannelse - bestået med fantastisk resusltat.</p>                           
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-sm-3 enhanced">
+                     <div class=" block-content bg-beige">
+                        <div class=" block-boxe">
+                           <i class="icon-star-empty header-icon"></i>
+                           <h3 class="uppercase text-brown mb-1">Central beliggenhed</h3>
                            <p class="content">Bella Donna Salon er ejet af Egzona Rashiti, som er uddannet med den 4-årige uddannelse - bestået med fantastisk resusltat.</p>                           
                            </a>
                         </div>
@@ -375,7 +375,7 @@
                               <span class="dots-price"></span>
                               <span class="service-price">140,-</span>
                            </div>
-                           <div class="block-content text-left">
+                           <!-- <div class="block-content text-left">
                               <h3 class="service-title h3 uppercase text-color-1">Herre farve / Reflekser</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">fra 350,-</span>
@@ -384,21 +384,16 @@
                               <h3 class="service-title h3 uppercase text-color-1">Herreklip &amp; skægtrimning</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">350,-</span>
-                           </div>
+                           </div> -->
                         </div>
                      </li>
                      <li class=" block-list">
                         <div class="col-sm-6  col-sm-offset-3 ">
                            <h1 class=" medium text-color-2 secondary-font">Kvinder</h1>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Dameklip</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Balayage</h3>
                               <span class="dots-price"></span>
-                              <span class="service-price">350,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Permanent</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 550,-</span>
+                              <span class="service-price">1300,-</span>
                            </div>
                            <div class="block-content text-left">
                               <h3 class="service-title h3 uppercase text-color-1">Farve</h3>
@@ -406,9 +401,14 @@
                               <span class="service-price">fra 450,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Striber</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Striber / Reflekser</h3>
                               <span class="dots-price"></span>
-                              <span class="service-price">fra 600,-</span>
+                              <span class="service-price">fra 800,-</span>
+                           </div>
+                           <div class="block-content text-left">
+                              <h3 class="service-title h3 uppercase text-color-1">Permanent</h3>
+                              <span class="dots-price"></span>
+                              <span class="service-price">fra 550,-</span>
                            </div>
                            <div class="block-content text-left">
                               <h3 class="service-title h3 uppercase text-color-1">Vipper</h3>
@@ -421,31 +421,41 @@
                               <span class="service-price">100,-</span>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Vask &amp; føn</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Babylights</h3>
                               <span class="dots-price"></span>
-                              <span class="service-price">fra 220,-</span>
+                              <span class="service-price">1200,-</span>
                            </div>
                            <div class="block-content text-left">
+                              <h3 class="service-title h3 uppercase text-color-1">Vask &amp; føn</h3>
+                              <span class="dots-price"></span>
+                              <span class="service-price">fra 200,-</span>
+                           </div>
+                           <div class="block-content text-left">
+                              <h3 class="service-title h3 uppercase text-color-1">Dameklip</h3>
+                              <span class="dots-price"></span>
+                              <span class="service-price">350,-</span>
+                           </div>
+                           <!-- <div class="block-content text-left">
                               <h3 class="service-title h3 uppercase text-color-1">Kur inkl. føn</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">300,-</span>
-                           </div>
+                           </div> -->
                         </div>
                      </li>
                      <li class=" block-list">
                         <div class="col-sm-6  col-sm-offset-3 ">
                            <h1 class=" medium text-color-2 secondary-font">Pensionist</h1>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Dame pensionist klip</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Pensionist klip dame</h3>
                               <span class="dots-price"></span>
-                              <span class="service-price">270,-</span>
-                              <p>Pensionistrabat er kun gældende hverdage fra kl. 9-12</p>
+                              <span class="service-price">300,-</span>
+                              <p>Prisen gælder mandag og onsdag fra kl. 9.30-12.30</p>
                            </div>
                            <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Herre pensionist klip</h3>
+                              <h3 class="service-title h3 uppercase text-color-1">Pensionist klip herre</h3>
                               <span class="dots-price"></span>
                               <span class="service-price">200,-</span>
-                              <p>Pensionistrabat er kun gældende hverdage fra kl. 9-12</p>
+                              <p>Prisen gælder mandag og onsdag fra kl. 9.30-12.30</p>
                            </div>
                         </div>
                      </li>
@@ -606,14 +616,14 @@
                <div class="row">
                   <!-- <div class="col-lg-6  col-lg-offset-4 col-sm-6  col-sm-offset-3"> -->
                   <h2 class="text-color-1 mb-15">Kontaktoplysninger</h2>
-                  <div class="col-sm-4 col-sm-offset-1">
+                  <div class="col-sm-6">
                      <div class="block-contact">                        
                         <p class="lead mb-15">
                            Frisør Donna vil være din foretrukne herrefrisør eller damefrisør i Ringsted.<br/>Du er altid velkommen til at ringe og høre mere om en pris på din næste klipning eller stille andre spørgsmål.
                            <br><br>
                            Telefon: <a href="tel:53389801" class="link text-color-2">5338 9801</a><br>
                            Email : <span><a href="mailto:kontakt@frisoerdonna.dk" class="link text-color-2">kontakt@frisoerdonna.dk</a></span><br>
-                           Adresse: <a target="_blank" href="https://maps.app.goo.gl/VEH9TuvNQhk1dB897" class="link text-color-2">Binningebækken 30, 4100 Ringsted</a>
+                           Adresse: <a target="_blank" href="https://maps.app.goo.gl/VEH9TuvNQhk1dB897" class="link text-color-2">Nordcentret - Benløseparken 15b, 4100 Ringsted</a>
                            <br><br>Vurderet 5/5 på Facebook
                         </p>
                         <ul class="block-social">
@@ -622,8 +632,10 @@
                         </ul>
                      </div>
                   </div>
-                  <div class="col-sm-4 col-sm-offset-2 google-maps">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2261.425513720692!2d11.785307376727133!3d55.4726810729818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46528fcc9c0d0e11%3A0x60251087f8766b1f!2sBinningeb%C3%A6kken%2030%2C%204100%20Ringsted!5e0!3m2!1sen!2sdk!4v1703588947111!5m2!1sen!2sdk" width="600" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                  <!-- <div class="col-sm-6 col-sm-offset-2 google-maps"> -->
+                  <div class="col-sm-6 google-maps">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2261.9930694958525!2d11.787920977150364!3d55.46278751429138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46528e2c9b2dfdd3%3A0x14c5b2238a5ff6e1!2sNordcentret!5e0!3m2!1sen!2sdk!4v1709323894160!5m2!1sen!2sdk" width="600" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                  <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2261.425513720692!2d11.785307376727133!3d55.4726810729818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46528fcc9c0d0e11%3A0x60251087f8766b1f!2sBinningeb%C3%A6kken%2030%2C%204100%20Ringsted!5e0!3m2!1sen!2sdk!4v1703588947111!5m2!1sen!2sdk" width="600" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
                   </div>
                </div>
                <!--End row-->
