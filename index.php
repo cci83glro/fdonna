@@ -5,25 +5,25 @@
    <head>
       <!-- Metas -->
       <meta charset="utf-8">
-      <title>Frisør Donna | Den bedste frisør i Danmark</title>
+      <title>Bella Donna Salon | Den bedste frisør i Danmark</title>
 
-     	<meta name="description" content="Frisør Donna er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+     	<meta name="description" content="Bella Donna Salon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
       <meta name="robots" content="max-image-preview:large">
-      <link rel="canonical" href="https://frisoerdonna.dk/">
+      <link rel="canonical" href="https://belladonnasalon.dk/">
       <meta property="og:locale" content="da_DK">
-      <meta property="og:site_name" content="Frisør Donna | Den bedste frisør i Danmark">
+      <meta property="og:site_name" content="Bella Donna Salon | Den bedste frisør i Danmark">
       <meta property="og:type" content="website">
-      <meta property="og:title" content="Frisør Donna | Den bedste frisør i Danmark">
-      <meta property="og:description" content="Frisør Donna er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
-      <meta property="og:url" content="https://frisoerdonna.dk/">
-      <meta property="og:image" content="https://frisoerdonna.dk/img/logo_100_100.png">
-      <meta property="og:image:secure_url" content="https://frisoerdonna.dk/img/logo_100_100.png">
+      <meta property="og:title" content="Bella Donna Salon | Den bedste frisør i Danmark">
+      <meta property="og:description" content="Bella Donna Salon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+      <meta property="og:url" content="https://belladonnasalon.dk/">
+      <meta property="og:image" content="https://belladonnasalon.dk/img/logo_100_100.png">
+      <meta property="og:image:secure_url" content="https://belladonnasalon.dk/img/logo_100_100.png">
       <meta property="og:image:width" content="100">
       <meta property="og:image:height" content="100">
       <meta name="twitter:card" content="summary_large_image">
-      <meta name="twitter:title" content="Frisør Donna | Den bedste frisør i Danmark">
-      <meta name="twitter:description" content="Frisør Donna er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
-      <meta name="twitter:image" content="https://frisoerdonna.dk/img/logo_100_100.png">
+      <meta name="twitter:title" content="Bella Donna Salon | Den bedste frisør i Danmark">
+      <meta name="twitter:description" content="Bella Donna Salon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+      <meta name="twitter:image" content="https://belladonnasalon.dk/img/logo_100_100.png">
 
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
 
@@ -65,7 +65,7 @@
             <header class="header default">
                <div class=" left-part">
                   <a class="logo scroll" href="#hero">
-                     <!-- <h2 class="mb-0">Frisør Donna</h2> -->
+                     <!-- <h2 class="mb-0">Bella Donna Salon</h2> -->
                      <div class="logo-img"></div>
                   </a>
                </div>
@@ -142,10 +142,10 @@
                            <span class="dots"></span>
                         </h3> -->
                         <h4 class="uppercase mb-1">Egzona - Indehaver af salon  / professionel frisør</h4>
-                        <p class="mb-1">Bella Donna Salon er ejet af Egzona Rashiti, som er uddannet med den 4-årige uddannelse - bestået med fantastisk resusltat. Egzona R. har dygtiggjort sig i at have et bredt udvalg af alle hendes behandlinger. Hun har mere end 15 års erfaring og er specialist i balayage, klipning og babylights. Hun brænder for sit fag og udviklingen i faget. Hun holder sig opdateret ifht. tidens trends og de nyeste modetendenser, hvorfor hun løbende deltager i diverse kurser. Samtidig elsker hun at bruge hendes erfaring og kommer gerne med gode forslag til, hvad der ville virke bedst for hver kundes hår, og sørger samtidig for, at kunden får en personlig oplevelse og føler sig tryg.</p>
+                        <p class="mb-1">Jeg hedder Egzona Rashiti og er ejer af Bella Donna Salon. Frisørfaget er for mig mere end bare en karriere, det er en livsstil.</p>
                         <!-- <p class="mb-05">For mig er det yderst vigtigt, at kunderne føler sig godt tilpas og gerne vil komme tilbage næste gang, når de har brug for en frisør. Derfor bruger jeg altid meget tid på at snakke med dem om deres ønsker og forventninger.</p> -->
-                        <p class="mb-2">Frisørfaget er for mig mere end bare en karriere; det er en livsstil. Mit mål er at skabe en enestående oplevelse, hvor du føler dig hjemme. Når du træder ind i Bella Donna Salon, handler det om dig og dine ønsker. Vi kan snakke om dine hårdrømme, og jeg deler gerne min professionelle og ærlige ekspertise. Mit højeste mål er, at du forlader salonen med en fornyet selvtillid og et fantastisk hår. Hos mig får du den klipning DU ønsker. I Bella Donna salonen er det altid gæsten, der er i centrum.</p>
-                        <p class="signature secondary-font mb-0">Frisør Donna</p>
+                        <p class="mb-2">Mit mål er at skabe en enestående oplevelse, hvor du føler dig hjemme. Når du træder ind i Bella Donna Salon, handler det om dig og dine ønsker. Vi kan snakke om dine hårdrømme, og jeg deler gerne min professionelle og ærlige ekspertise. Mit højeste mål er, at du forlader salonen med en fornyet selvtillid og et fantastisk hår. Hos mig får du den klipning DU ønsker. I Bella Donna salonen er det altid gæsten, der er i centrum.</p>
+                        <p class="signature secondary-font mb-0">Bella Donna Salon</p>
                      </div>
                   </div>
                </div>
@@ -178,7 +178,7 @@
                         <div class=" block-boxe">
                            <i class="icon-heart-empty header-icon"></i>
                            <h3 class="text-brown mb-1">Hyggelig atmosfære</h3>
-                           <p class="content">Mit mål er at skabe en enestående oplevelse, hvor du føler dig hjemme.</p>
+                           <p class="content">Mit mål er at skabe en personlig og enestående oplevelse, som gør at kunden føler sig hjemme. Jeg forstår vigtigheden af at føle sig godt tilpas, og jeg er her for at hjælpe dig med at opnå netop denne følelse.</p>
                            </a>
                         </div>
                      </div>
@@ -188,7 +188,7 @@
                         <div class=" block-boxe">
                            <i class="icon-brush-1 header-icon"></i>
                            <h3 class="uppercase text-brown mb-1">Stor erfaring</h3>
-                           <p class="content">Bella Donna Salon er ejet af Egzona Rashiti, som er uddannet med den 4-årige uddannelse - bestået med fantastisk resusltat.</p>                           
+                           <p class="content"> Jeg er uddannet med den 4-årige grunduddannelse, som var bestået med fantastisk resusltat. Ydermere har jeg mere end 15 års erfaring og er specialist i bl.a. balayage, klipning og babylights.</p>                           
                            </a>
                         </div>
                      </div>
@@ -198,7 +198,7 @@
                         <div class=" block-boxe">
                            <i class="icon-diamond header-icon"></i>
                            <h3 class="uppercase text-brown mb-1">Professionalisme</h3>
-                           <p class="content">Bella Donna Salon er ejet af Egzona Rashiti, som er uddannet med den 4-årige uddannelse - bestået med fantastisk resusltat.</p>                           
+                           <p class="content">Jeg holder mig opdateret ift. tidens trends og de nyeste modetendenser, ved at deltage løbende i diverse uddannelser/kurser. Samtidig elsker jeg at bruge min erfaring til at komme med gode forslag til, hvad der bedst ville virke til hver kundes hår.</p>
                            </a>
                         </div>
                      </div>
@@ -208,7 +208,7 @@
                         <div class=" block-boxe">
                            <i class="icon-star-empty header-icon"></i>
                            <h3 class="uppercase text-brown mb-1">Central beliggenhed</h3>
-                           <p class="content">Bella Donna Salon er ejet af Egzona Rashiti, som er uddannet med den 4-årige uddannelse - bestået med fantastisk resusltat.</p>                           
+                           <p class="content">Vores frisør salon er centralt placeret i Benløse tæt på Ringsted, hvilket gør det nemt for dig at besøge os fra forskellige omkringliggende områder. Her tager vi imod mange klienter fra området, herunder Slagelse og Roskilde, men vi har også stamkunder, som kommer længere væk fra.</p>
                            </a>
                         </div>
                      </div>
@@ -276,7 +276,7 @@
                               <div class="block-review">
                                  <h4 class="uppercase mb-0 text-color-2">Susan He</h4>
                                  <span class="text-color-1">Kunde</span>
-                                 <blockquote>“ Mine varmeste anbefalinger til Frisør Donna! Jeg er simpelthen så glad for min nye frisure - den blev endnu flottere end det, jeg havde tænkt. Hos Donna er man i trygge hænder! “ </blockquote>
+                                 <blockquote>“ Mine varmeste anbefalinger til Bella Donna Salon! Jeg er simpelthen så glad for min nye frisure - den blev endnu flottere end det, jeg havde tænkt. Hos Donna er man i trygge hænder! “ </blockquote>
                                  <ul class="block-star mt-10">
                                     <li><i class="icon-star"></i></li>
                                     <li><i class="icon-star"></i></li>
@@ -619,11 +619,14 @@
                   <div class="col-sm-6">
                      <div class="block-contact">                        
                         <p class="lead mb-15">
-                           Frisør Donna vil være din foretrukne herrefrisør eller damefrisør i Ringsted.<br/>Du er altid velkommen til at ringe og høre mere om en pris på din næste klipning eller stille andre spørgsmål.
+                           Du finder min moderne og hyggelige salon i Benløse tæt på Ringsted.
+                           <a target="_blank" href="https://maps.app.goo.gl/DcwfeyygNhaP7Luq7" class="link text-color-2">Find vejen til mig</a>
+                           <br/><br/>Der er fri parkering i hele området omkring salonen, og bussen 401a holder lige udenfor centeret. Der er også handicapvenligt, både med toilet og ingen trapper ved indgangene.
+                           <br/><br/>Du er altid velkommen til at ringe og høre mere om en pris på din næste klipning eller stille andre spørgsmål.
                            <br><br>
                            Telefon: <a href="tel:53389801" class="link text-color-2">5338 9801</a><br>
-                           Email : <span><a href="mailto:kontakt@frisoerdonna.dk" class="link text-color-2">kontakt@frisoerdonna.dk</a></span><br>
-                           Adresse: <a target="_blank" href="https://maps.app.goo.gl/VEH9TuvNQhk1dB897" class="link text-color-2">Nordcentret - Benløseparken 15b, 4100 Ringsted</a>
+                           Email : <span><a href="mailto:kontakt@belladonnasalon.dk" class="link text-color-2">kontakt@belladonnasalon.dk</a></span><br>
+                           Adresse: <a target="_blank" href="https://maps.app.goo.gl/DcwfeyygNhaP7Luq7" class="link text-color-2">Nordcentret - Benløseparken 15b, 4100 Ringsted</a>
                            <br><br>Vurderet 5/5 på Facebook
                         </p>
                         <ul class="block-social">
@@ -634,7 +637,7 @@
                   </div>
                   <!-- <div class="col-sm-6 col-sm-offset-2 google-maps"> -->
                   <div class="col-sm-6 google-maps">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2261.9930694958525!2d11.787920977150364!3d55.46278751429138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46528e2c9b2dfdd3%3A0x14c5b2238a5ff6e1!2sNordcentret!5e0!3m2!1sen!2sdk!4v1709323894160!5m2!1sen!2sdk" width="600" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2261.9930694958525!2d11.787920977150364!3d55.46278751429138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46528e2c9b2dfdd3%3A0x14c5b2238a5ff6e1!2sNordcentret!5e0!3m2!1sen!2sdk!4v1709323894160!5m2!1sen!2sdk" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                   <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2261.425513720692!2d11.785307376727133!3d55.4726810729818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46528fcc9c0d0e11%3A0x60251087f8766b1f!2sBinningeb%C3%A6kken%2030%2C%204100%20Ringsted!5e0!3m2!1sen!2sdk!4v1703588947111!5m2!1sen!2sdk" width="600" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
                   </div>
                </div>
@@ -648,7 +651,7 @@
                <!--Row-->
                <div class="row ">
                   <div class="col-md-12 text-center">
-                     <p class="mb-0">©<?php echo date("Y");?> Frisør Donna | CVR: 42228923 | All rights reserved</p>
+                     <p class="mb-0">©<?php echo date("Y");?> Bella Donna Salon | CVR: 42228923 | All rights reserved</p>
                      <p class="mb-0">
                         <a href="#" class="open-modal" data-ref-id="cookies-policy">Cookies politik</a> | <a href="#" class="open-modal" data-ref-id="personaldata-policy">Persondata politik</a>
                      </p>
