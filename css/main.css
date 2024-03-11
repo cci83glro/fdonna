@@ -16,7 +16,7 @@
     6.Barbers section
     7.Pricing section
     8.Appointment section
-    9.Locations section
+	9.Follow us section
     10.News section
     11.Contact section
     12.Footer section
@@ -521,6 +521,23 @@ select:focus {
 	font-size: 1em;
 }
 /*End reservation section*/
+
+/*Follow us section*/
+
+#follow-us .text-content {
+	background-color: #fff;
+	width: 50%;
+	margin: 0 auto;
+	padding: 30px 0;
+	opacity: .75;
+}
+
+#follow-us .text-content h2 {
+	/* color: var(--content-color-2);	 */
+	text-transform: none;
+}
+
+/*End follow us section*/
 
 /* Menu section*/
 

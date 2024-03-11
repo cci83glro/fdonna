@@ -495,8 +495,8 @@
                   <div class="col-sm-12 text-center front-p">
                      <h1 class=" large text-white  secondary-font">Book en tid</h1>
                      <h4 class="uppercase text-white">Åbningstider</h4>
-                     <p class="text-white">Mandag : Efter aftale</p>
-                     <p class="text-white">Tirsdag : 09:30 - 16:00</p>
+                     <p class="text-white">Mandag : 09:30 - 16:00</p>
+                     <p class="text-white">Tirsdag : Efter aftale</p>
                      <p class="text-white">Onsdag : 09:30 - 16:00</p>
                      <p class="text-white">Torsdag : 09:30 - 16:00</p>
                      <p class="text-white">Fredag : 09:00 - 16:00</p>
@@ -607,6 +607,29 @@
             <!--End container-->
          </section>
          <!--End appointment section-->
+
+          <!--Divider-->
+          <section id="follow-us" class="divider overlay">
+            <div class="background-img " >
+               <img src="img/booking-section-background.webp" alt="">
+            </div>
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row">
+                  <div class="text-content text-center front-p">
+                     <h2 class="secondary-font">Følg vores hverdag</h1>
+                     <ul class="block-social">
+                        <li><a href="https://www.facebook.com/FrisorDonna" target=_blank><i class="icon-facebook"></i></a></li>
+                        <li><a href="https://instagram.com/frisor_donna?igshid=NTc4MTIwNjQ2YQ==" target=_blank><i class="icon-instagram-1"></i></a></li>
+                     </ul>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+         </section>
+         <!--End divider section-->
 
          <!--Contact section-->
          <section id="contact" class="contact main text-center">
