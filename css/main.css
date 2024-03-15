@@ -437,6 +437,15 @@ section.services .container:last-child .row:last-child {
 	font-size: 1.3em;
 	text-transform: none;
 }
+
+/* Prices section*/
+
+#pricing .extra-info {
+	font-size: 1em;
+}
+
+/* End prices section*/
+
 /* Reservation section*/
 
 .block-input {
@@ -825,10 +834,11 @@ a.scroll-top {
 @media all and (max-width: 990px) {
 
 	.header .logo-img{
-		width:60px;
+		width:150px;
 		height:60px;
 		top:10px;
-		background-size:60px 60px;
+		background-size:150px 60px;
+		margin-left: -.75em;
 	}
 
 	.main-slider .flex-control-nav {
