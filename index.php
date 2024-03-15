@@ -10,6 +10,7 @@
      	<meta name="description" content="Bella Donna Salon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
       <meta name="robots" content="max-image-preview:large">
       <link rel="canonical" href="https://belladonnasalon.dk/">
+      <link rel="icon" type="image/png" href="https://belladonnasalon.dk/img/logo_100_100.png">
       <meta property="og:locale" content="da_DK">
       <meta property="og:site_name" content="Bella Donna Salon | Den bedste frisør i Danmark">
       <meta property="og:type" content="website">
@@ -141,10 +142,11 @@
                         <!-- <h3 class="uppercase mb-0">Jeg hedder Egzona og jeg driver en hyggelig, men yderst professionel frisør salon i Ringsted
                            <span class="dots"></span>
                         </h3> -->
-                        <h4 class="uppercase mb-1">Egzona - Indehaver af salon  / professionel frisør</h4>
-                        <p class="mb-1">Jeg hedder Egzona Rashiti og er ejer af Bella Donna Salon. Frisørfaget er for mig mere end bare en karriere, det er en livsstil.</p>
+                        <!-- <h4 class="uppercase mb-1">Egzona - Indehaver af salon  og professionel frisør</h4> -->
+                        <p class="mb-1">Mit navn er Egzona Rashiti, jeg er indhaver af salonen “Bella Donna Salon”. Jeg er 33 år og min drøm har altid været at blive frisør. Med mig i bagagen har jeg 15 års erfaring i faget, med stor kompetence inden for b.l.a Balayage, Babylights, udover herre og dameklip.</p>
+                        <p class="mb-2">Jeg vil beskrive mig selv som en moderne frisør da jeg holder mig opdateret på alle hårets nye trends! Jeg sætter stor pris på, at alle som sidder i min stol, ældre som yngre føler sig trykke, hørt og tilpas. Hos mig er døren og telefonen altid åben hvis du må have spørgsmål til behandlinger, produktvejledning m.m.</p>
                         <!-- <p class="mb-05">For mig er det yderst vigtigt, at kunderne føler sig godt tilpas og gerne vil komme tilbage næste gang, når de har brug for en frisør. Derfor bruger jeg altid meget tid på at snakke med dem om deres ønsker og forventninger.</p> -->
-                        <p class="mb-2">Mit mål er at skabe en enestående oplevelse, hvor du føler dig hjemme. Når du træder ind i Bella Donna Salon, handler det om dig og dine ønsker. Vi kan snakke om dine hårdrømme, og jeg deler gerne min professionelle og ærlige ekspertise. Mit højeste mål er, at du forlader salonen med en fornyet selvtillid og et fantastisk hår. Hos mig får du den klipning DU ønsker. I Bella Donna salonen er det altid gæsten, der er i centrum.</p>
+                        <!-- <p class="mb-2">Mit mål er at skabe en enestående oplevelse, hvor du føler dig hjemme. Når du træder ind i Bella Donna Salon, handler det om dig og dine ønsker. Vi kan snakke om dine hårdrømme, og jeg deler gerne min professionelle og ærlige ekspertise. Mit højeste mål er, at du forlader salonen med en fornyet selvtillid og et fantastisk hår. Hos mig får du den klipning DU ønsker. I Bella Donna salonen er det altid gæsten, der er i centrum.</p> -->
                         <p class="signature secondary-font mb-0">Bella Donna Salon</p>
                      </div>
                   </div>
@@ -162,7 +164,7 @@
                <!--Row-->
                <div class="row">
                   <div class="col-sm-12 text-center gap-one-bottom">
-                     <h2 class="text-brown mb-0">Derfor skal du vælge os!</h2>
+                     <h2 class="text-brown mb-0">Derfor skal du vælge mig</h2>
                      <!-- <p class="text-beige mb-0">Barbers talk</p> -->
                   </div>
                </div>
@@ -227,6 +229,7 @@
                <!--Row-->
                <div class="row">
                   <div class="col-sm-12 text-center gap-double-lg">
+                     <h2 class="text-brown mb-15">Det siger mine kunder om mig</h2>
                      <div class="review-slider flexslider">
                         <ul class="slides">
                            <li>
@@ -611,7 +614,7 @@
           <!--Divider-->
           <section id="follow-us" class="divider overlay">
             <div class="background-img " >
-               <img src="img/booking-section-background.webp" alt="">
+               <img src="img/follow-us-section-background.webp" alt="">
             </div>
             <!--Container-->
             <div class="container">
@@ -642,7 +645,7 @@
                   <div class="col-sm-6">
                      <div class="block-contact">                        
                         <p class="lead mb-15">
-                           Du finder min moderne og hyggelige salon i Benløse tæt på Ringsted.
+                           Du finder min moderne og hyggelige salon i Benløse - Ringsted,  hvilket gør det nemt for dig at besøge os fra forskellige omkringliggende områder som f.eks. København, Rødovre, Kalundborg, Roskilde mm.
                            <a target="_blank" href="https://maps.app.goo.gl/DcwfeyygNhaP7Luq7" class="link text-color-2">Find vejen til mig</a>
                            <br/><br/>Der er fri parkering i hele området omkring salonen, og bussen 401a holder lige udenfor centeret. Der er også handicapvenligt, både med toilet og ingen trapper ved indgangene.
                            <br/><br/>Du er altid velkommen til at ringe og høre mere om en pris på din næste klipning eller stille andre spørgsmål.

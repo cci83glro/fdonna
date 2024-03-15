@@ -333,6 +333,10 @@ h1.large {
 
 /* About section*/
 
+section#about {
+	padding-top: 5em;
+}
+
 .block-beard img {
 	max-width: 70%;
 	display: inline-block;
@@ -528,13 +532,14 @@ select:focus {
 	background-color: #fff;
 	width: 50%;
 	margin: 0 auto;
-	padding: 30px 0;
+	padding: 50px 0;
 	opacity: .75;
 }
 
 #follow-us .text-content h2 {
 	/* color: var(--content-color-2);	 */
 	text-transform: none;
+	margin-bottom: .8em;
 }
 
 /*End follow us section*/
@@ -918,6 +923,13 @@ a.scroll-top {
 		-webkit-border-radius: 0;
 	}
 }
+
+@media only screen and (max-width: 767px) {
+	.google-maps {
+		margin-top: 2em;
+	}
+}
+
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	input,
 	textarea {
