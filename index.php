@@ -313,11 +313,9 @@
             </div>
             <!--End container-->
             <!--Container-->
-            <div class="container ">
-               <!--Row-->
-               <div class="row">
+            <!--<div class="container ">
+                <div class="row">
                   <div class="col-sm-12 gap-one-bottom">
-                     <!--Tabs-->
                      <ul class="block-tabs text-center">
                         <li class="active overlay">
                            <div class="background-img" >
@@ -345,17 +343,120 @@
                         </li>
                      </ul>
                   </div>
-               </div>
-               <!--End row-->
-            </div>
+               </div> 
+            </div>-->
             <!--End container-->
             <!--Container-->
-            <div class="container ">
+            <div class="container justify-content-between">
+               <div class="col-xs-12 price-group">
+                  <h1 class=" medium text-color-2 secondary-font">Klip</h1>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Dameklip</h3>
+                     <!-- <span class="dots-price"></span> -->
+                     <span class="service-price">349,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Pageklip</h3>
+                     <span class="service-price">369,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Pandehårs klip</h3>
+                     <span class="service-price">60,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Herreklip</h3>
+                     <span class="service-price">249,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Lille herreklip</h3>
+                     <span class="service-price">220,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Skæg</h3>
+                     <span class="service-price">140,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Maskinklip</h3>
+                     <span class="service-price">150,-</span>
+                     <!-- <p>All around</p> -->
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Børneklip (0-10 år)</h3>
+                     <span class="service-price">170,-</span>
+                  </div>
+                  <p class="extra-info text-color-2 mb-0">Mandag - Fredag inden kl. 12 tilbyder vi 40,- studierabat på klipning ved fremvisning af gyldigt studiekort.</p>
+               </div>
+
+               <div class="col-xs-12 margin-left price-group">
+                  <h1 class=" medium text-color-2 secondary-font">Balayage / babylights</h1>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Balayage</h3>
+                     <span class="service-price">fra 1300,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Babylights</h3>
+                     <span class="service-price">fra 1200,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Reflekser kort hår</h3>
+                     <span class="service-price">fra 800,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Reflekser langt hår</h3>
+                     <span class="service-price">fra 1200,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Toning kort hår</h3>
+                     <span class="service-price">fra 300,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Toning mellemlangt hår</h3>
+                     <span class="service-price">fra 450,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Toning langt hår</h3>
+                     <span class="service-price">fra 500,-</span>
+                  </div>
+               </div>
+
+               <div class="col-xs-12 price-group">
+                  <h1 class=" medium text-color-2 secondary-font">Farver</h1>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Farve kort hår</h3>
+                     <span class="service-price">fra 450,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Farve mellemlangt hår</h3>
+                     <span class="service-price">fra 650,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Farve langt hår</h3>
+                     <span class="service-price">fra 800,-</span>
+                  </div>
+               </div>
+
+               <!-- <div class="col-sm-12 col-md-5 col-md-offset-2 price-group"> -->
+               <div class="col-xs-12 margin-left price-group">
+               <h1 class=" medium text-color-2 secondary-font">Permanent</h1>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Permanent kort hår</h3>
+                     <span class="service-price">fra 500,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Permanent mellemlangt hår</h3>
+                     <span class="service-price">fra 700,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Permanent langt hår</h3>
+                     <span class="service-price">fra 1000,-</span>
+                  </div>
+               </div>
                <!--Row-->
-               <div class="row">
+               <!-- <div class="row">
                   <ul class="block-tab mt-40">
                      <li class="active block-list">
-                        <div class="col-sm-6  col-sm-offset-3 ">
+                           <div class="col-sm-6 col-sm-offset-3 price-group">
+                        <div class="col-sm-6 col-sm-offset-3 price-group">
                            <h1 class=" medium text-color-2 secondary-font">Klip</h1>
                            <div class="block-content text-left">
                               <h3 class="service-title h3 uppercase text-color-1">Dameklip</h3>
@@ -482,8 +583,7 @@
                         </div>
                      </li>
                   </ul>
-                  <!--End tabs-->
-               </div>
+               </div> -->
                <!--End row-->
             </div>
             <!--End container-->
@@ -494,7 +594,30 @@
          </section>
          <!--End pricing section-->
 
+         <section id="follow-us" class="divider overlay">
+            <div class="background-img " >
+               <img src="img/follow-us-section-background.webp" alt="Follow us background image">
+            </div>
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row">
+                  <div class="text-content text-center front-p">
+                     <h2 class="secondary-font">Følg vores hverdag</h1>
+                     <ul class="block-social">
+                        <li><a href="https://www.facebook.com/FrisorDonna" target=_blank><i class="icon-facebook"></i></a></li>
+                        <li><a href="https://instagram.com/frisor_donna?igshid=NTc4MTIwNjQ2YQ==" target=_blank><i class="icon-instagram-1"></i></a></li>
+                     </ul>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+         </section>
+
+
          <!--Divider-->
+         <h2 class="text-center text-color-1 mb-1 mt-15">Book en tid</h2>
          <section id="appointment" class="divider overlay">
             <div class="background-img zoom" >
                <img src="img/booking-section-background.webp" alt="">
@@ -503,8 +626,7 @@
             <div class="container">
                <!--Row-->
                <div class="row">
-                  <div class="col-sm-12 text-center front-p">
-                     <h1 class=" large text-white  secondary-font">Book en tid</h1>
+                  <div class="col-sm-12 text-container front-p">
                      <h4 class="uppercase text-white">Åbningstider</h4>
                      <p class="text-white">Mandag : 09:30 - 16:00</p>
                      <p class="text-white">Tirsdag : Efter aftale</p>
@@ -618,29 +740,6 @@
             <!--End container-->
          </section>
          <!--End appointment section-->
-
-          <!--Divider-->
-          <section id="follow-us" class="divider overlay">
-            <div class="background-img " >
-               <img src="img/follow-us-section-background.webp" alt="Follow us background image">
-            </div>
-            <!--Container-->
-            <div class="container">
-               <!--Row-->
-               <div class="row">
-                  <div class="text-content text-center front-p">
-                     <h2 class="secondary-font">Følg vores hverdag</h1>
-                     <ul class="block-social">
-                        <li><a href="https://www.facebook.com/FrisorDonna" target=_blank><i class="icon-facebook"></i></a></li>
-                        <li><a href="https://instagram.com/frisor_donna?igshid=NTc4MTIwNjQ2YQ==" target=_blank><i class="icon-instagram-1"></i></a></li>
-                     </ul>
-                  </div>
-               </div>
-               <!--End row-->
-            </div>
-            <!--End container-->
-         </section>
-         <!--End divider section-->
 
          <!--Contact section-->
          <section id="contact" class="contact main text-center">

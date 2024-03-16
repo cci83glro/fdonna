@@ -444,6 +444,23 @@ section.services .container:last-child .row:last-child {
 	font-size: 1em;
 }
 
+#pricing .price-group {
+	background-image: url("../img/background-prices-4.webp");
+	background-position: initial;
+	background-size: cover;
+	margin-bottom: 1em;
+	padding: 2em 2em 1em;
+	min-height: 600px;
+	border-radius: 10px;
+	--webkit-border-radius: 10px;
+	--moz-border-radius: 10px;
+}
+
+#pricing .price-group h1 {
+	text-decoration: underline;
+	text-underline-offset: 12px;
+}
+
 /* End prices section*/
 
 /* Reservation section*/
@@ -529,10 +546,16 @@ select:focus {
 }
 #appointment h4 {
 	font-size: 1.3em;
+	margin-bottom: 1em;
 }
 #appointment p {
 	font-size: 1em;
+	line-height: 1.5em;
 }
+#appointment .text-container {
+	padding-left: 10%;
+}
+
 /*End reservation section*/
 
 /*Follow us section*/
@@ -600,9 +623,9 @@ select:focus {
 .service-title {
 	position: relative;
 	z-index: 2;
-	background: #fff;
 	top: -2px;
 	padding-right: .125em;
+	color: var(--content-color-2);
 }
 .service-price {
 	position: absolute;
@@ -610,8 +633,8 @@ select:focus {
 	right: 0;
 	font-size: .9375em;
 	z-index: 2;
-	background: #fff;
 	padding-left: .125em;
+	color: var(--content-color-2);
 }
 /* End menu section*/
 
@@ -826,11 +849,29 @@ a.scroll-top {
 		-webkit-border-radius: 0;
 	}
 }
+
+@media all and (min-width: 768px) {
+	#pricing .price-group {
+		width: 49%;
+	}
+
+	#pricing .price-group.margin-left {
+		margin-left: 2%;
+	}
+}
+
+@media all and (min-width: 991px) {
+	#pricing .price-group {
+		padding: 2em 3em 1em;
+	}
+}
+
 @media all and (max-width: 1160px) {
 	h1.large {
 		font-size: 3em;
 	}
 }
+
 @media all and (max-width: 990px) {
 
 	.header .logo-img{
