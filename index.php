@@ -605,8 +605,8 @@
                   <div class="text-content text-center front-p">
                      <h2 class="secondary-font">Følg vores hverdag</h1>
                      <ul class="block-social">
-                        <li><a href="https://www.facebook.com/FrisorDonna" target=_blank><i class="icon-facebook"></i></a></li>
-                        <li><a href="https://instagram.com/frisor_donna?igshid=NTc4MTIwNjQ2YQ==" target=_blank><i class="icon-instagram-1"></i></a></li>
+                        <li><a href="https://www.facebook.com/FrisorBellaDonna" target=_blank><i class="icon-facebook"></i></a></li>
+                        <li><a href="https://www.instagram.com/bella_donna_salonn?igsh=MWR4cHp6eHZyZzc1ZA==" target=_blank><i class="icon-instagram-1"></i></a></li>
                      </ul>
                   </div>
                </div>
@@ -763,8 +763,8 @@
                            <br><br>Vurderet 5/5 på Facebook
                         </p>
                         <ul class="block-social">
-                           <li><a href="https://www.facebook.com/FrisorDonna" target=_blank><i class="icon-facebook"></i></a></li>
-                           <li><a href="https://instagram.com/frisor_donna?igshid=NTc4MTIwNjQ2YQ==" target=_blank><i class="icon-instagram-1"></i></a></li>
+                           <li><a href="https://www.facebook.com/FrisorBellaDonna" target=_blank><i class="icon-facebook"></i></a></li>
+                           <li><a href="https://www.instagram.com/bella_donna_salonn?igsh=MWR4cHp6eHZyZzc1ZA==" target=_blank><i class="icon-instagram-1"></i></a></li>
                         </ul>
                      </div>
                   </div>
