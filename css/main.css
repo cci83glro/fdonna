@@ -451,15 +451,30 @@ section.services .container:last-child .row:last-child {
 	margin-bottom: 1em;
 	padding: 2em 2em 1em;
 	min-height: 600px;
+	float: left;
+	width: 100%;
 	border-radius: 10px;
 	--webkit-border-radius: 10px;
 	--moz-border-radius: 10px;
+}
+
+#pricing .price-group.full-width {
+	/* background: url("../img/background-confirmation.webp") no-repeat center; */
+	background-image: url("../img/background-confirmation.webp");
+	background-position: center;
+	width: 100%;
+	min-height: 300px;
 }
 
 #pricing .price-group h1 {
 	text-decoration: underline;
 	text-underline-offset: 12px;
 }
+
+#pricing .price-group p {
+	font-size: .85em;
+}
+
 
 /* End prices section*/
 
@@ -550,7 +565,11 @@ select:focus {
 }
 #appointment p {
 	font-size: 1em;
-	line-height: 1.5em;
+	line-height: 1.8em;
+	max-width: 20%;
+}
+#appointment p>.time {
+	float: right;
 }
 #appointment .text-container {
 	padding-left: 10%;
@@ -860,6 +879,12 @@ a.scroll-top {
 	}
 }
 
+@media all and (max-width: 767px) {
+	#pricing .price-group.full-width {
+		min-height: 600px;
+	}
+}
+
 @media all and (min-width: 991px) {
 	#pricing .price-group {
 		padding: 2em 3em 1em;
@@ -975,9 +1000,20 @@ a.scroll-top {
 	}
 }
 
+@media only screen and (min-width: 768px) and (max-width: 990px) {
+
+	#appointment p {
+		max-width: 30%;
+	}
+}
+
 @media only screen and (max-width: 767px) {
 	.google-maps {
 		margin-top: 2em;
+	}
+
+	#appointment p {
+		max-width: 50%;
 	}
 }
 

@@ -313,42 +313,8 @@
             </div>
             <!--End container-->
             <!--Container-->
-            <!--<div class="container ">
-                <div class="row">
-                  <div class="col-sm-12 gap-one-bottom">
-                     <ul class="block-tabs text-center">
-                        <li class="active overlay">
-                           <div class="background-img" >
-                              <img src="img/background-category.webp" alt="Category background image">
-                           </div>
-                           <span class="front-p">Klip</span>
-                        </li>
-                        <li class=" overlay">
-                           <div class="background-img" >
-                              <img src="img/background-category.webp" alt="Category background image">
-                           </div>
-                           <span class="front-p">Balayage / babylights</span>
-                        </li>
-                        <li class=" overlay">
-                           <div class="background-img" >
-                              <img src="img/background-category.webp" alt="Category background image">
-                           </div>
-                           <span class="front-p">Farver</span>
-                        </li>
-                        <li class=" overlay">
-                           <div class="background-img" >
-                              <img src="img/background-category.webp" alt="Category background image">
-                           </div>
-                           <span class="front-p">Permanent</span>
-                        </li>
-                     </ul>
-                  </div>
-               </div> 
-            </div>-->
-            <!--End container-->
-            <!--Container-->
             <div class="container justify-content-between">
-               <div class="col-xs-12 price-group">
+               <div class="price-group">
                   <h1 class=" medium text-color-2 secondary-font">Klip</h1>
                   <div class="block-content text-left">
                      <h3 class="service-title h3 uppercase text-color-1">Dameklip</h3>
@@ -387,7 +353,7 @@
                   <p class="extra-info text-color-2 mb-0">Mandag - Fredag inden kl. 12 tilbyder vi 40,- studierabat på klipning ved fremvisning af gyldigt studiekort.</p>
                </div>
 
-               <div class="col-xs-12 margin-left price-group">
+               <div class="margin-left price-group">
                   <h1 class=" medium text-color-2 secondary-font">Balayage / babylights</h1>
                   <div class="block-content text-left">
                      <h3 class="service-title h3 uppercase text-color-1">Balayage</h3>
@@ -419,7 +385,7 @@
                   </div>
                </div>
 
-               <div class="col-xs-12 price-group">
+               <div class="price-group">
                   <h1 class=" medium text-color-2 secondary-font">Farver</h1>
                   <div class="block-content text-left">
                      <h3 class="service-title h3 uppercase text-color-1">Farve kort hår</h3>
@@ -436,8 +402,8 @@
                </div>
 
                <!-- <div class="col-sm-12 col-md-5 col-md-offset-2 price-group"> -->
-               <div class="col-xs-12 margin-left price-group">
-               <h1 class=" medium text-color-2 secondary-font">Permanent</h1>
+               <div class="margin-left price-group">
+                  <h1 class=" medium text-color-2 secondary-font">Permanent</h1>
                   <div class="block-content text-left">
                      <h3 class="service-title h3 uppercase text-color-1">Permanent kort hår</h3>
                      <span class="service-price">fra 500,-</span>
@@ -451,140 +417,19 @@
                      <span class="service-price">fra 1000,-</span>
                   </div>
                </div>
-               <!--Row-->
-               <!-- <div class="row">
-                  <ul class="block-tab mt-40">
-                     <li class="active block-list">
-                           <div class="col-sm-6 col-sm-offset-3 price-group">
-                        <div class="col-sm-6 col-sm-offset-3 price-group">
-                           <h1 class=" medium text-color-2 secondary-font">Klip</h1>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Dameklip</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">349,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Pageklip</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">369,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Pandehårs klip</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">60,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Herreklip</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">249,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Lille herreklip</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">220,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Skæg</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">140,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Maskinklip</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">150,-</span>
-                              <p>All around</p>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Børneklip (0-10 år)</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">170,-</span>
-                           </div>
-                           <p class="extra-info text-color-2 mb-0">Mandag - Fredag inden kl. 12 tilbyder vi 40,- studierabat på klipning ved fremvisning af gyldigt studiekort.</p>
-                        </div>
-                     </li>
-                     <li class=" block-list">
-                        <div class="col-sm-6  col-sm-offset-3 ">
-                           <h1 class=" medium text-color-2 secondary-font">Balayage / babylights</h1>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Balayage</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 1300,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Babylights</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 1200,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Reflekser kort hår</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 800,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Reflekser langt hår</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 1200,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Toning kort hår</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 300,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Toning mellemlangt hår</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 450,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Toning langt hår</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 500,-</span>
-                           </div>
-                        </div>
-                     </li>
-                     <li class=" block-list">
-                        <div class="col-sm-6  col-sm-offset-3 ">
-                           <h1 class=" medium text-color-2 secondary-font">Farver</h1>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Farve kort hår</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 450,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Farve mellemlangt hår</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 650,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Farve langt hår</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 800,-</span>
-                           </div>
-                        </div>
-                     </li>
-                     <li class=" block-list">
-                        <div class="col-sm-6  col-sm-offset-3 ">
-                           <h1 class=" medium text-color-2 secondary-font">Permanent</h1>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Permanent kort hår</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 500,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Permanent mellemlangt hår</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 700,-</span>
-                           </div>
-                           <div class="block-content text-left">
-                              <h3 class="service-title h3 uppercase text-color-1">Permanent langt hår</h3>
-                              <span class="dots-price"></span>
-                              <span class="service-price">fra 1000,-</span>
-                           </div>
-                        </div>
-                     </li>
-                  </ul>
-               </div> -->
-               <!--End row-->
+
+               <div class="price-group full-width">
+                  <h1 class=" medium text-color-2 secondary-font">Konfirmation håropsætning</h1>
+                  <div class="block-content text-left">
+                     <p class="service-title text-color-1">Skal du konfirmeres, og drømmer om smukt konfirmations hår samt en naturlig makeup? Så kan frisør og makeup artist BY Bella Donna Salon klar til at hjælpe dig. </p>
+                  </div>
+                  <div class="block-content text-left">
+                     <p class="service-title text-color-1">På Konfirmationsdagen bliver du gjort klar i min salon, hvor det er min fornemmeste opgave at sørge for at finde den bedste sammenhæng mellem konfirmationshår og konfirmationskjole, som passer netop dig og din type.</p>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title uppercase h3 text-color-1">Priser fra 400,- kr</h3>
+                  </div>
+               </div>
             </div>
             <!--End container-->
 
@@ -620,7 +465,7 @@
          <h2 class="text-center text-color-1 mb-1 mt-15">Book en tid</h2>
          <section id="appointment" class="divider overlay">
             <div class="background-img zoom" >
-               <img src="img/booking-section-background.webp" alt="">
+               <img src="img/booking-section-background.webp" alt="Classic watch on black background">
             </div>
             <!--Container-->
             <div class="container">
@@ -628,13 +473,13 @@
                <div class="row">
                   <div class="col-sm-12 text-container front-p">
                      <h4 class="uppercase text-white">Åbningstider</h4>
-                     <p class="text-white">Mandag : 09:30 - 16:00</p>
-                     <p class="text-white">Tirsdag : Efter aftale</p>
-                     <p class="text-white">Onsdag : 09:30 - 16:00</p>
-                     <p class="text-white">Torsdag : 09:30 - 16:00</p>
-                     <p class="text-white">Fredag : 09:00 - 16:00</p>
-                     <p class="text-white">Lørdag : 09:30 - 14:00</p>
-                     <p class="text-white">Søndag : Efter aftale</p>
+                     <p class="text-white">Mandag : <span class="time">09:30 - 16:00</span></p>
+                     <p class="text-white">Tirsdag : <span class="time">Efter aftale</span></p>
+                     <p class="text-white">Onsdag : <span class="time">09:30 - 16:00</span></p>
+                     <p class="text-white">Torsdag : <span class="time">09:30 - 16:00</span></p>
+                     <p class="text-white">Fredag : <span class="time">09:00 - 16:00</span></p>
+                     <p class="text-white">Lørdag : <span class="time">09:30 - 14:00</span></p>
+                     <p class="text-white">Søndag : <span class="time">Efter aftale</span></p>
                      <a id="appointment-btn" href="https://frisoer-donna.planway.com" target=_blank class="but scroll">Ny booking</a>
                   </div>
                </div>
@@ -759,7 +604,7 @@
                            <br><br>
                            Telefon: <a href="tel:53389801" class="link text-color-2">5338 9801</a><br>
                            Email : <span><a href="mailto:kontakt@belladonnasalon.dk" class="link text-color-2">kontakt@belladonnasalon.dk</a></span><br>
-                           Adresse: <a target="_blank" href="https://maps.app.goo.gl/DcwfeyygNhaP7Luq7" class="link text-color-2">Nordcentret - Benløseparken 15b, 4100 Ringsted</a>
+                           Adresse: <a target="_blank" href="https://maps.app.goo.gl/DcwfeyygNhaP7Luq7" class="link text-color-2">Nordcentret - Benløseparken 2, 4100 Ringsted</a>
                            <br><br>Vurderet 5/5 på Facebook
                         </p>
                         <ul class="block-social">
