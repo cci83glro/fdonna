@@ -5,25 +5,25 @@
    <head>
       <!-- Metas -->
       <meta charset="utf-8">
-      <title>Bella Donna Salon | Den bedste frisør i Danmark</title>
+      <title>BellaDonnaSalon | Den bedste frisør i Danmark</title>
 
-     	<meta name="description" content="Bella Donna Salon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+     	<meta name="description" content="BellaDonnaSalon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
       <meta name="robots" content="max-image-preview:large">
       <link rel="canonical" href="https://belladonnasalon.dk/">
       <link rel="icon" type="image/png" href="https://belladonnasalon.dk/img/logo_100_100.png">
       <meta property="og:locale" content="da_DK">
-      <meta property="og:site_name" content="Bella Donna Salon | Den bedste frisør i Danmark">
+      <meta property="og:site_name" content="BellaDonnaSalon | Den bedste frisør i Danmark">
       <meta property="og:type" content="website">
-      <meta property="og:title" content="Bella Donna Salon | Den bedste frisør i Danmark">
-      <meta property="og:description" content="Bella Donna Salon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+      <meta property="og:title" content="BellaDonnaSalon | Den bedste frisør i Danmark">
+      <meta property="og:description" content="BellaDonnaSalon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
       <meta property="og:url" content="https://belladonnasalon.dk/">
       <meta property="og:image" content="https://belladonnasalon.dk/img/logo_100_100.png">
       <meta property="og:image:secure_url" content="https://belladonnasalon.dk/img/logo_100_100.png">
       <meta property="og:image:width" content="100">
       <meta property="og:image:height" content="100">
       <meta name="twitter:card" content="summary_large_image">
-      <meta name="twitter:title" content="Bella Donna Salon | Den bedste frisør i Danmark">
-      <meta name="twitter:description" content="Bella Donna Salon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+      <meta name="twitter:title" content="BellaDonnaSalon | Den bedste frisør i Danmark">
+      <meta name="twitter:description" content="BellaDonnaSalon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
       <meta name="twitter:image" content="https://belladonnasalon.dk/img/logo_100_100.png">
 
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
@@ -56,7 +56,7 @@
                         <source media="(min-width: 768px)" srcset="img/main-slider-1-1900_1200.webp">
                         <img src="img/main-slider-1-400_840.webp" alt="Krøller med blondt hår">
                      </picture> -->
-                        <img src="img/main-slider-1-1900_1200.webp" alt="Krøller på blondt hår">
+                        <img src="img/main-slider-1-1900_1200.webp" alt="Krøller på blondt hår BellaDonnaSalon">
                      </div>
                   </li>
                </ul>
@@ -95,7 +95,7 @@
                   <!--Row-->
                   <div class="row">
                      <div class="col-sm-12 text-center">
-                        <h1 class="large text-white secondary-font mb-1">Familievenlig<br/>Bella Donna Salon</h1>
+                        <h1 class="large text-white secondary-font mb-1">Familievenlig<br/>BellaDonnaSalon</h1>
                         <h6 class="mb-0 text-white uppercase">Egzona - Indehaver af salon  / professionel frisør</h6>
                      </div>
                   </div>
@@ -126,7 +126,7 @@
                <div class="row">
                   <div class="col-sm-8 col-sm-offset-2 gap-one-bottom">
                      <div class="block-beard">
-                        <img class="mb-0" src="img/about-us-1.webp" alt="Donna sammen med familien">
+                        <img class="mb-0" src="img/about-us-1.webp" alt="Donna sammen med familien BellaDonnaSalon">
                      </div>
                   </div>
                </div>
@@ -143,11 +143,11 @@
                            <span class="dots"></span>
                         </h3> -->
                         <!-- <h4 class="uppercase mb-1">Egzona - Indehaver af salon  og professionel frisør</h4> -->
-                        <p class="mb-1">Mit navn er Egzona Rashiti, jeg er indhaver af salonen “Bella Donna Salon”. Jeg er 33 år og min drøm har altid været at blive frisør. Med mig i bagagen har jeg 15 års erfaring i faget, med stor kompetence inden for b.l.a Balayage, Babylights, udover herre og dameklip.</p>
+                        <p class="mb-1">Mit navn er Egzona Rashiti, jeg er indhaver af salonen BellaDonnaSalon. Jeg er 33 år og min drøm har altid været at blive frisør. Med mig i bagagen har jeg 15 års erfaring i faget, med stor kompetence inden for b.l.a Balayage, Babylights, udover herre og dameklip.</p>
                         <p class="mb-2">Jeg vil beskrive mig selv som en moderne frisør da jeg holder mig opdateret på alle hårets nye trends! Jeg sætter stor pris på, at alle som sidder i min stol, ældre som yngre føler sig trykke, hørt og tilpas. Hos mig er døren og telefonen altid åben hvis du må have spørgsmål til behandlinger, produktvejledning m.m.</p>
                         <!-- <p class="mb-05">For mig er det yderst vigtigt, at kunderne føler sig godt tilpas og gerne vil komme tilbage næste gang, når de har brug for en frisør. Derfor bruger jeg altid meget tid på at snakke med dem om deres ønsker og forventninger.</p> -->
                         <!-- <p class="mb-2">Mit mål er at skabe en enestående oplevelse, hvor du føler dig hjemme. Når du træder ind i Bella Donna Salon, handler det om dig og dine ønsker. Vi kan snakke om dine hårdrømme, og jeg deler gerne min professionelle og ærlige ekspertise. Mit højeste mål er, at du forlader salonen med en fornyet selvtillid og et fantastisk hår. Hos mig får du den klipning DU ønsker. I Bella Donna salonen er det altid gæsten, der er i centrum.</p> -->
-                        <p class="signature secondary-font mb-0">Bella Donna Salon</p>
+                        <p class="signature secondary-font mb-0">BellaDonnaSalon</p>
                      </div>
                   </div>
                </div>
@@ -279,7 +279,7 @@
                               <div class="block-review">
                                  <h4 class="uppercase mb-0 text-color-2">Susan He</h4>
                                  <span class="text-color-1">Kunde</span>
-                                 <blockquote>“ Mine varmeste anbefalinger til Bella Donna Salon! Jeg er simpelthen så glad for min nye frisure - den blev endnu flottere end det, jeg havde tænkt. Hos Donna er man i trygge hænder! “ </blockquote>
+                                 <blockquote>“ Mine varmeste anbefalinger til BellaDonnaSalon! Jeg er simpelthen så glad for min nye frisure - den blev endnu flottere end det, jeg havde tænkt. Hos Donna er man i trygge hænder! “ </blockquote>
                                  <ul class="block-star mt-10">
                                     <li><i class="icon-star"></i></li>
                                     <li><i class="icon-star"></i></li>
@@ -421,7 +421,7 @@
                <div class="price-group full-width">
                   <h1 class=" medium text-color-2 secondary-font">Konfirmation håropsætning</h1>
                   <div class="block-content text-left">
-                     <p class="service-title text-color-1">Skal du konfirmeres, og drømmer om smukt konfirmations hår samt en naturlig makeup? Så kan frisør og makeup artist BY Bella Donna Salon klar til at hjælpe dig. </p>
+                     <p class="service-title text-color-1">Skal du konfirmeres, og drømmer om smukt konfirmations hår samt en naturlig makeup? Så kan frisør og makeup artist BY BellaDonnaSalon klar til at hjælpe dig. </p>
                   </div>
                   <div class="block-content text-left">
                      <p class="service-title text-color-1">På Konfirmationsdagen bliver du gjort klar i min salon, hvor det er min fornemmeste opgave at sørge for at finde den bedste sammenhæng mellem konfirmationshår og konfirmationskjole, som passer netop dig og din type.</p>
@@ -441,7 +441,7 @@
 
          <section id="follow-us" class="divider overlay">
             <div class="background-img " >
-               <img src="img/follow-us-section-background.webp" alt="Follow us background image">
+               <img src="img/follow-us-section-background.webp" alt="Follow us background image BellaDonnaSalon">
             </div>
             <!--Container-->
             <div class="container">
@@ -465,7 +465,7 @@
          <h2 class="text-center text-color-1 mb-1 mt-15">Book en tid</h2>
          <section id="appointment" class="divider overlay">
             <div class="background-img zoom" >
-               <img src="img/booking-section-background.webp" alt="Classic watch on black background">
+               <img src="img/booking-section-background.webp" alt="Classic watch on black background BellaDonnaSalon">
             </div>
             <!--Container-->
             <div class="container">
@@ -629,7 +629,7 @@
                <!--Row-->
                <div class="row ">
                   <div class="col-md-12 text-center">
-                     <p class="mb-0">©<?php echo date("Y");?> Bella Donna Salon | CVR: 42228923 | All rights reserved</p>
+                     <p class="mb-0">©<?php echo date("Y");?> BellaDonnaSalon | CVR: 42228923 | All rights reserved</p>
                      <p class="mb-0">
                         <a href="#" class="open-modal" data-ref-id="cookies-policy">Cookies politik</a> | <a href="#" class="open-modal" data-ref-id="personaldata-policy">Persondata politik</a>
                      </p>
