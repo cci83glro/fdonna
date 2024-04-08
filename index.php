@@ -393,7 +393,7 @@
                   </div>
                   <div class="block-content text-left">
                      <h3 class="service-title h3 uppercase text-color-1">Olaplex behandling</h3>
-                     <span class="service-price">399,-</span>
+                     <span class="service-price">fra 399,-</span>
                   </div>
                </div>
 
