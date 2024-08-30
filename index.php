@@ -358,6 +358,7 @@
                      <h3 class="service-title h3 uppercase text-color-1">Pensionist herreklip</h3>
                      <span class="service-price">199,-</span>
                   </div>
+                  <p class="extra-info text-color-2 mb-0">Pensionistklip tilbydes Mandag og Onsdag kl. 9:30 - 12:00.</p>
                   <p class="extra-info text-color-2 mb-0">Mandag - Fredag inden kl. 12 tilbyder vi 40,- studierabat på klipning ved fremvisning af gyldigt studiekort.</p>
                </div>
 
