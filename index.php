@@ -80,7 +80,7 @@
                      <ul>
                         <li><a class="scroll" href="#about">Om mig</a></li>
                         <li><a class="scroll" href="#pricing">Priser</a></li>
-                        <li><a class="scroll" href="#appointment">Book en tid</a></li>
+                        <li><a href="https://frisoer-donna.planway.com" target=_blank>Book en tid</a></li>
                         <li><a class="scroll" href="#contact-form">Skriv til mig</a></li>
                         <li><a class="scroll" href="#contact">Kontaktoplysninger</a></li>
                      </ul>
