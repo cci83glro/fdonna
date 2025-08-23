@@ -319,23 +319,23 @@
                   <div class="block-content text-left">
                      <h3 class="service-title h3 uppercase text-color-1">Dameklip</h3>
                      <!-- <span class="dots-price"></span> -->
-                     <span class="service-price">349,-</span>
-                  </div>
-                  <div class="block-content text-left">
-                     <h3 class="service-title h3 uppercase text-color-1">Pageklip</h3>
                      <span class="service-price">369,-</span>
                   </div>
                   <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Pageklip</h3>
+                     <span class="service-price">399,-</span>
+                  </div>
+                  <div class="block-content text-left">
+                     <h3 class="service-title h3 uppercase text-color-1">Vaske / føn</h3>
+                     <span class="service-price">fra 399,-</span>
+                  </div>
+                  <div class="block-content text-left">
                      <h3 class="service-title h3 uppercase text-color-1">Pandehårs klip</h3>
-                     <span class="service-price">60,-</span>
+                     <span class="service-price">69,-</span>
                   </div>
                   <div class="block-content text-left">
                      <h3 class="service-title h3 uppercase text-color-1">Herreklip</h3>
-                     <span class="service-price">249,-</span>
-                  </div>
-                  <div class="block-content text-left">
-                     <h3 class="service-title h3 uppercase text-color-1">Lille herreklip</h3>
-                     <span class="service-price">220,-</span>
+                     <span class="service-price">269,-</span>
                   </div>
                   <div class="block-content text-left">
                      <h3 class="service-title h3 uppercase text-color-1">Skæg</h3>
@@ -348,15 +348,15 @@
                   </div>
                   <div class="block-content text-left">
                      <h3 class="service-title h3 uppercase text-color-1">Børneklip (0-10 år)</h3>
-                     <span class="service-price">170,-</span>
+                     <span class="service-price">189,-</span>
                   </div>
                   <div class="block-content text-left">
                      <h3 class="service-title h3 uppercase text-color-1">Pensionist dameklip</h3>
-                     <span class="service-price">299,-</span>
+                     <span class="service-price">319,-</span>
                   </div>
                   <div class="block-content text-left">
                      <h3 class="service-title h3 uppercase text-color-1">Pensionist herreklip</h3>
-                     <span class="service-price">199,-</span>
+                     <span class="service-price">219,-</span>
                   </div>
                   <p class="extra-info text-color-2 mb-0">Pensionistklip tilbydes Mandag og Onsdag kl. 9:30 - 12:00.</p>
                   <p class="extra-info text-color-2 mb-0">Mandag - Fredag inden kl. 12 tilbyder vi 40,- studierabat på klipning ved fremvisning af gyldigt studiekort.</p>
@@ -486,11 +486,11 @@
                <div class="row">
                   <div class="col-sm-12 text-container front-p">
                      <h4 class="uppercase text-white">Åbningstider</h4>
-                     <p class="text-white">Mandag : <span class="time">09:30 - 16:00</span></p>
+                     <p class="text-white">Mandag : <span class="time">09:30 - 18:00</span></p>
                      <p class="text-white">Tirsdag : <span class="time">09:30 - 18:00</span></p>
                      <p class="text-white">Onsdag : <span class="time">09:30 - 18:00</span></p>
-                     <p class="text-white">Torsdag : <span class="time">09:30 - 16:00</span></p>
-                     <p class="text-white">Fredag : <span class="time">09:00 - 18:00</span></p>
+                     <p class="text-white">Torsdag : <span class="time">09:30 - 18:00</span></p>
+                     <p class="text-white">Fredag : <span class="time">09:30 - 18:00</span></p>
                      <p class="text-white">Lørdag : <span class="time">09:30 - 15:00</span></p>
                      <p class="text-white">Søndag : <span class="time">Efter aftale</span></p>
                      <a id="appointment-btn" href="https://frisoer-donna.planway.com" target=_blank class="but scroll">Ny booking</a>
