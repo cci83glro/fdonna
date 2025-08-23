@@ -7,7 +7,7 @@
       <meta charset="utf-8">
       <title>BellaDonnaSalon | Den bedste frisør i Danmark</title>
 
-     	<meta name="description" content="BellaDonnaSalon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+     	<meta name="description" content="Mit navn er Egzona Rashiti, jeg er indhaver af salonen BellaDonnaSalon. Jeg er 33 år og min drøm har altid været at blive frisør. Med mig i bagagen har jeg 15 års erfaring i faget, med stor kompetence inden for b.l.a Balayage, Babylights, udover herre og dameklip.">
       <meta name="robots" content="max-image-preview:large">
       <link rel="canonical" href="https://belladonnasalon.dk/">
       <link rel="icon" type="image/png" href="https://belladonnasalon.dk/img/logo_100_100.png">
@@ -15,7 +15,7 @@
       <meta property="og:site_name" content="BellaDonnaSalon | Den bedste frisør i Danmark">
       <meta property="og:type" content="website">
       <meta property="og:title" content="BellaDonnaSalon | Den bedste frisør i Danmark">
-      <meta property="og:description" content="BellaDonnaSalon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+      <meta property="og:description" content="Mit navn er Egzona Rashiti, jeg er indhaver af salonen BellaDonnaSalon. Jeg er 33 år og min drøm har altid været at blive frisør. Med mig i bagagen har jeg 15 års erfaring i faget, med stor kompetence inden for b.l.a Balayage, Babylights, udover herre og dameklip.">
       <meta property="og:url" content="https://belladonnasalon.dk/">
       <meta property="og:image" content="https://belladonnasalon.dk/img/logo_100_100.png">
       <meta property="og:image:secure_url" content="https://belladonnasalon.dk/img/logo_100_100.png">
@@ -23,7 +23,7 @@
       <meta property="og:image:height" content="100">
       <meta name="twitter:card" content="summary_large_image">
       <meta name="twitter:title" content="BellaDonnaSalon | Den bedste frisør i Danmark">
-      <meta name="twitter:description" content="BellaDonnaSalon er en hyggelig og professionel frisørsalon, som jeg driver i mit hjem i Ringsted. Jeg tilbyder alle former for behandlinger inden for farve, klipning, permanent og meget mere.">
+      <meta name="twitter:description" content="Mit navn er Egzona Rashiti, jeg er indhaver af salonen BellaDonnaSalon. Jeg er 33 år og min drøm har altid været at blive frisør. Med mig i bagagen har jeg 15 års erfaring i faget, med stor kompetence inden for b.l.a Balayage, Babylights, udover herre og dameklip.">
       <meta name="twitter:image" content="https://belladonnasalon.dk/img/logo_100_100.png">
 
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
